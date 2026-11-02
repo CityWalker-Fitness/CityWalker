@@ -1,6 +1,6 @@
 {
  "version": 1,
- "built": "2026-10-30",
+ "built": "2026-11-02",
  "source": "OpenStreetMap contributors (ODbL), via Geofabrik",
  "cities": [
   {
@@ -1098,6 +1098,178 @@
     25.247991,
     46.335932,
     25.352009
+   ]
+  },
+  {
+   "name": "Amsterdam",
+   "county": "Noord-Holland",
+   "search": [
+    "amsterdam"
+   ],
+   "file": "amsterdam.bin",
+   "bytes": 7615088,
+   "streets": 135836,
+   "sha256": "6e1bd25779f33dfe3fca9565a0ea3cb91bd842551a3084a3a8b277bf418c7e88",
+   "bbox": [
+    52.268786,
+    4.742267,
+    52.466414,
+    5.065933
+   ]
+  },
+  {
+   "name": "Rotterdam",
+   "county": "Zuid-Holland",
+   "search": [
+    "rotterdam"
+   ],
+   "file": "rotterdam.bin",
+   "bytes": 7517907,
+   "streets": 132995,
+   "sha256": "ec6713346e00079cb8a240e42e8deecd37a9a63060fe238d1537cfe2ed4c21cd",
+   "bbox": [
+    51.825586,
+    4.31747,
+    52.023214,
+    4.63793
+   ]
+  },
+  {
+   "name": "Den Haag",
+   "county": "Zuid-Holland",
+   "search": [
+    "den haag",
+    "s gravenhage",
+    "the hague"
+   ],
+   "file": "den-haag.bin",
+   "bytes": 5281016,
+   "streets": 93980,
+   "sha256": "1a2ff367306ffc184b32c4b27174874f4d942b77bb1bad995ead13970a32890d",
+   "bbox": [
+    51.980669,
+    4.15456,
+    52.160331,
+    4.44684
+   ]
+  },
+  {
+   "name": "Utrecht",
+   "county": "Utrecht",
+   "search": [
+    "utrecht"
+   ],
+   "file": "utrecht.bin",
+   "bytes": 4432451,
+   "streets": 80131,
+   "sha256": "7812f4ebd70f4dc7c16a086b310656e7fefff8ac29b6036dc4cbc79c831bc2cd",
+   "bbox": [
+    52.009852,
+    4.989814,
+    52.171548,
+    5.252986
+   ]
+  },
+  {
+   "name": "Eindhoven",
+   "county": "Noord-Brabant",
+   "search": [
+    "eindhoven"
+   ],
+   "file": "eindhoven.bin",
+   "bytes": 3157335,
+   "streets": 56095,
+   "sha256": "934c9dd7ea0621eeee8cc9fe13e668ffbac03b802c9ad60669d5547fc5c1a805",
+   "bbox": [
+    51.369735,
+    5.354405,
+    51.513465,
+    5.584995
+   ]
+  },
+  {
+   "name": "Groningen",
+   "county": "Groningen",
+   "search": [
+    "groningen"
+   ],
+   "file": "groningen.bin",
+   "bytes": 1668286,
+   "streets": 27298,
+   "sha256": "55f0f1c1d1f8d0861efde498bd44fa935f681efd5f102c6da9df2bbe0b0ec048",
+   "bbox": [
+    53.147535,
+    6.446476,
+    53.291265,
+    6.686524
+   ]
+  },
+  {
+   "name": "Tilburg",
+   "county": "Noord-Brabant",
+   "search": [
+    "tilburg"
+   ],
+   "file": "tilburg.bin",
+   "bytes": 2048633,
+   "streets": 32001,
+   "sha256": "ee3679b7e7baa79fe9e2b16e2086e36651283dc0dfe7155f47c30cdcdf6e8477",
+   "bbox": [
+    51.483635,
+    4.975716,
+    51.627365,
+    5.206884
+   ]
+  },
+  {
+   "name": "Almere",
+   "county": "Flevoland",
+   "search": [
+    "almere"
+   ],
+   "file": "almere.bin",
+   "bytes": 2759294,
+   "streets": 43746,
+   "sha256": "b1630cc187ff7349df6c6a06886cfa7750acacf922579ef64ccba35c5109ab95",
+   "bbox": [
+    52.269952,
+    5.132341,
+    52.431648,
+    5.397059
+   ]
+  },
+  {
+   "name": "Breda",
+   "county": "Noord-Brabant",
+   "search": [
+    "breda"
+   ],
+   "file": "breda.bin",
+   "bytes": 1748654,
+   "streets": 27786,
+   "sha256": "654b4980dc8ff1c8736c0c778ddfef511b1bc4dbedcb48d65d511df6004f2783",
+   "bbox": [
+    51.500035,
+    4.652675,
+    51.643765,
+    4.883925
+   ]
+  },
+  {
+   "name": "Nijmegen",
+   "county": "Gelderland",
+   "search": [
+    "nijmegen"
+   ],
+   "file": "nijmegen.bin",
+   "bytes": 2404462,
+   "streets": 40130,
+   "sha256": "b77807cfc9403929e2e35425dde76bc009ed276f04765194a30fbdddc5a39381",
+   "bbox": [
+    51.740735,
+    5.720958,
+    51.884465,
+    5.953442
    ]
   }
  ]
