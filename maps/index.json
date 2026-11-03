@@ -1271,6 +1271,180 @@
     51.884465,
     5.953442
    ]
+  },
+  {
+   "name": "Warszawa",
+   "county": "Mazowieckie",
+   "search": [
+    "warsaw",
+    "warszawa"
+   ],
+   "file": "warszawa.bin",
+   "bytes": 19606830,
+   "streets": 351714,
+   "sha256": "c32a3cecb57fb56a80ddc9c447995f4d7d7bacc537979b55fe593a991abfaa98",
+   "bbox": [
+    52.094953,
+    20.792204,
+    52.364447,
+    21.232196
+   ]
+  },
+  {
+   "name": "Kraków",
+   "county": "Małopolskie",
+   "search": [
+    "cracow",
+    "krakow"
+   ],
+   "file": "krakow.bin",
+   "bytes": 9912807,
+   "streets": 182455,
+   "sha256": "4950867cf8e29978263296fc9fc7df6b7bd3b33cab73eb485491f2016345f08e",
+   "bbox": [
+    49.965886,
+    19.791065,
+    50.163514,
+    20.098935
+   ]
+  },
+  {
+   "name": "Łódź",
+   "county": "Łódzkie",
+   "search": [
+    "lodz",
+    "łodz"
+   ],
+   "file": "łodz.bin",
+   "bytes": 7116628,
+   "streets": 115608,
+   "sha256": "f6a9e3efdef07854f1aaf57eea3afceeb795ee8156ecb85dcdb9aef3111b2e57",
+   "bbox": [
+    51.660386,
+    19.296356,
+    51.858014,
+    19.615644
+   ]
+  },
+  {
+   "name": "Wrocław",
+   "county": "Dolnośląskie",
+   "search": [
+    "wroclaw",
+    "wrocław"
+   ],
+   "file": "wrocław.bin",
+   "bytes": 8065309,
+   "streets": 140813,
+   "sha256": "caa48ad121d917594f96c7a1603e33fe5850be86fc85f3fb629497cc0cf37e49",
+   "bbox": [
+    51.009086,
+    16.881116,
+    51.206714,
+    17.195884
+   ]
+  },
+  {
+   "name": "Poznań",
+   "county": "Wielkopolskie",
+   "search": [
+    "poznan"
+   ],
+   "file": "poznan.bin",
+   "bytes": 6248671,
+   "streets": 94655,
+   "sha256": "e48f00b3a1345699a4b8bc38769c9e59d7b953b820cdf235961b53ccbca7cb71",
+   "bbox": [
+    52.316569,
+    16.77795,
+    52.496231,
+    17.07245
+   ]
+  },
+  {
+   "name": "Gdańsk",
+   "county": "Pomorskie",
+   "search": [
+    "gdansk"
+   ],
+   "file": "gdansk.bin",
+   "bytes": 5640501,
+   "streets": 100429,
+   "sha256": "8b2fd11d1ddc1cc07ce3091a7ae7af458cf418f0942eb8b92c96fea81a10b1e5",
+   "bbox": [
+    54.262169,
+    18.492464,
+    54.441831,
+    18.800736
+   ]
+  },
+  {
+   "name": "Szczecin",
+   "county": "Zachodniopomorskie",
+   "search": [
+    "szczecin"
+   ],
+   "file": "szczecin.bin",
+   "bytes": 4146232,
+   "streets": 63188,
+   "sha256": "13d5d6366547412820ead5cc20ea8fb115c32eea35ea47f70b18f1b04b9fa002",
+   "bbox": [
+    53.338669,
+    14.402032,
+    53.518331,
+    14.703568
+   ]
+  },
+  {
+   "name": "Bydgoszcz",
+   "county": "Kujawsko-Pomorskie",
+   "search": [
+    "bydgoszcz"
+   ],
+   "file": "bydgoszcz.bin",
+   "bytes": 2873265,
+   "streets": 45017,
+   "sha256": "2060de932759a091b2ca49091e8b316073b90286336a0999d52faa1db79e47ef",
+   "bbox": [
+    53.042652,
+    17.873674,
+    53.204348,
+    18.143126
+   ]
+  },
+  {
+   "name": "Lublin",
+   "county": "Lubelskie",
+   "search": [
+    "lublin"
+   ],
+   "file": "lublin.bin",
+   "bytes": 4042146,
+   "streets": 68878,
+   "sha256": "90032366fabd0831dcd0017c2638c9a8379bb0a63c649a1dc7feef7e04755635",
+   "bbox": [
+    51.165652,
+    22.439244,
+    51.327348,
+    22.697556
+   ]
+  },
+  {
+   "name": "Katowice",
+   "county": "Śląskie",
+   "search": [
+    "katowice"
+   ],
+   "file": "katowice.bin",
+   "bytes": 6023361,
+   "streets": 99001,
+   "sha256": "21644ebc91d3028076f5b47d0796450b431fc1d6982cf3947fea6024c8f16c8e",
+   "bbox": [
+    50.184052,
+    18.897325,
+    50.345748,
+    19.150275
+   ]
   }
  ]
 }
