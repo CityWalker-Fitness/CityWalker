@@ -158,6 +158,179 @@
     43.334865,
     -2.836314
    ]
+  },
+  {
+   "name": "Berlin",
+   "county": "Berlin",
+   "search": [
+    "berlin"
+   ],
+   "file": "berlin.bin",
+   "bytes": 22798917,
+   "streets": 459701,
+   "sha256": "0d5841bd2628d86036682873f8eb7c0e1e0d12c11ba564443cbe57f2c9ba002e",
+   "bbox": [
+    52.358304,
+    13.139264,
+    52.681696,
+    13.670736
+   ]
+  },
+  {
+   "name": "Hamburg",
+   "county": "Hamburg",
+   "search": [
+    "hamburg"
+   ],
+   "file": "hamburg.bin",
+   "bytes": 12505595,
+   "streets": 233139,
+   "sha256": "e115e347faa3e53f285e84051673bb6fd12a521ded2efeca26cd524c74d2576f",
+   "bbox": [
+    53.40737,
+    9.751774,
+    53.69483,
+    10.235626
+   ]
+  },
+  {
+   "name": "München",
+   "county": "Bayern",
+   "search": [
+    "munchen",
+    "munich"
+   ],
+   "file": "munchen.bin",
+   "bytes": 11473881,
+   "streets": 219089,
+   "sha256": "8bea01e50711e6110788c3b09a1435b0ac00c628212dfab66e645174b5b055ee",
+   "bbox": [
+    48.009336,
+    11.393555,
+    48.260864,
+    11.770445
+   ]
+  },
+  {
+   "name": "Köln",
+   "county": "Nordrhein-Westfalen",
+   "search": [
+    "cologne",
+    "koln"
+   ],
+   "file": "koln.bin",
+   "bytes": 7634031,
+   "streets": 140247,
+   "sha256": "0b5dbc551f36d1402bae0bb0fa6e7b09661355d0231093ed0aac30748c8fa816",
+   "bbox": [
+    50.82072,
+    6.774984,
+    51.05428,
+    7.145616
+   ]
+  },
+  {
+   "name": "Frankfurt am Main",
+   "county": "Hessen",
+   "search": [
+    "frankfurt",
+    "frankfurt am main"
+   ],
+   "file": "frankfurt-am-main.bin",
+   "bytes": 5881169,
+   "streets": 110713,
+   "sha256": "71b6745063662f19ca890885b7047e892d0764a5d343656eb5b3ab74c8d7e152",
+   "bbox": [
+    50.012086,
+    8.528017,
+    50.209714,
+    8.836183
+   ]
+  },
+  {
+   "name": "Stuttgart",
+   "county": "Baden-Württemberg",
+   "search": [
+    "stuttgart"
+   ],
+   "file": "stuttgart.bin",
+   "bytes": 6903970,
+   "streets": 116974,
+   "sha256": "aafc5be38dcb54113f1f4c8428794a46c34b88bfd5e9e79621b7e4d191316589",
+   "bbox": [
+    48.676986,
+    9.032956,
+    48.874614,
+    9.332844
+   ]
+  },
+  {
+   "name": "Düsseldorf",
+   "county": "Nordrhein-Westfalen",
+   "search": [
+    "dusseldorf"
+   ],
+   "file": "dusseldorf.bin",
+   "bytes": 5965008,
+   "streets": 106484,
+   "sha256": "e9b0e54e1889cdb8895fc8334d3229897dd697c6bd65456c31cfaaa8c3c4064c",
+   "bbox": [
+    51.137869,
+    6.630052,
+    51.317531,
+    6.916948
+   ]
+  },
+  {
+   "name": "Leipzig",
+   "county": "Sachsen",
+   "search": [
+    "leipzig"
+   ],
+   "file": "leipzig.bin",
+   "bytes": 4781853,
+   "streets": 93109,
+   "sha256": "098addd13f99b783a6b05569705304795347bb856a9011a727448369b3bc55a4",
+   "bbox": [
+    51.240886,
+    12.214922,
+    51.438514,
+    12.531278
+   ]
+  },
+  {
+   "name": "Dortmund",
+   "county": "Nordrhein-Westfalen",
+   "search": [
+    "dortmund"
+   ],
+   "file": "dortmund.bin",
+   "bytes": 6627161,
+   "streets": 119593,
+   "sha256": "06e1309dbbb9bdc8c734a2dd5737e304f6783265512d60263a123b55f0974d69",
+   "bbox": [
+    51.423769,
+    7.320953,
+    51.603431,
+    7.609647
+   ]
+  },
+  {
+   "name": "Essen",
+   "county": "Nordrhein-Westfalen",
+   "search": [
+    "essen"
+   ],
+   "file": "essen.bin",
+   "bytes": 6829356,
+   "streets": 119112,
+   "sha256": "9bfb4458f78f5c4e8906f5b8eb4eb154da5537bec08361d18e25bdc19ccf4049",
+   "bbox": [
+    51.365769,
+    6.867437,
+    51.545431,
+    7.155763
+   ]
   }
  ]
 }
