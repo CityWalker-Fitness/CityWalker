@@ -1786,6 +1786,182 @@
     51.562448,
     -3.049279
    ]
+  },
+  {
+   "name": "Roma",
+   "county": "Lazio",
+   "search": [
+    "roma",
+    "rome"
+   ],
+   "file": "roma.bin",
+   "bytes": 10816239,
+   "streets": 149519,
+   "sha256": "67c23770d2c87afbff17b843c191536a377a8f661f5aa26a64dfd9d4b736178f",
+   "bbox": [
+    41.750087,
+    12.291218,
+    42.055513,
+    12.701582
+   ]
+  },
+  {
+   "name": "Milano",
+   "county": "Lombardia",
+   "search": [
+    "milan",
+    "milano"
+   ],
+   "file": "milano.bin",
+   "bytes": 10069040,
+   "streets": 164740,
+   "sha256": "0c7cc633003e55ed5e68517c50e56f2059324a0a3268aa066bf58a60bc188991",
+   "bbox": [
+    45.34742,
+    9.023493,
+    45.58098,
+    9.356507
+   ]
+  },
+  {
+   "name": "Napoli",
+   "county": "Campania",
+   "search": [
+    "naples",
+    "napoli"
+   ],
+   "file": "napoli.bin",
+   "bytes": 2909434,
+   "streets": 45334,
+   "sha256": "8c68cc25dbd34e62d06c947aa5716ee28020b7db6171ad8b18fba34b9931a1bf",
+   "bbox": [
+    40.761969,
+    14.149339,
+    40.941631,
+    14.386861
+   ]
+  },
+  {
+   "name": "Torino",
+   "county": "Piemonte",
+   "search": [
+    "torino",
+    "turin"
+   ],
+   "file": "torino.bin",
+   "bytes": 3960519,
+   "streets": 61839,
+   "sha256": "36895d060c21026095327f8e70217173d04d217fbd053fb2f2a958b1b01a332c",
+   "bbox": [
+    44.971486,
+    7.546984,
+    45.169114,
+    7.826816
+   ]
+  },
+  {
+   "name": "Palermo",
+   "county": "Sicilia",
+   "search": [
+    "palermo"
+   ],
+   "file": "palermo.bin",
+   "bytes": 1276502,
+   "streets": 16898,
+   "sha256": "7e870d7f570f9fc1addc8802aa501b215da171dfa576aa4c397971f292145b1a",
+   "bbox": [
+    38.034852,
+    13.25874,
+    38.196548,
+    13.46426
+   ]
+  },
+  {
+   "name": "Genova",
+   "county": "Liguria",
+   "search": [
+    "genoa",
+    "genova"
+   ],
+   "file": "genova.bin",
+   "bytes": 2875522,
+   "streets": 35014,
+   "sha256": "82c8bfb1d2474acbe795ea3be53119208bd5ffc320bfa74f9863c0e4c7d6144e",
+   "bbox": [
+    44.315769,
+    8.820557,
+    44.495431,
+    9.072043
+   ]
+  },
+  {
+   "name": "Bologna",
+   "county": "Emilia-Romagna",
+   "search": [
+    "bologna"
+   ],
+   "file": "bologna.bin",
+   "bytes": 2810302,
+   "streets": 38818,
+   "sha256": "7ade04c9ce14c767bce32a0608b3423829aa5b67d4ad19699f2306949a390b93",
+   "bbox": [
+    44.414052,
+    11.229258,
+    44.575748,
+    11.455942
+   ]
+  },
+  {
+   "name": "Firenze",
+   "county": "Toscana",
+   "search": [
+    "firenze",
+    "florence"
+   ],
+   "file": "firenze.bin",
+   "bytes": 3346022,
+   "streets": 43970,
+   "sha256": "af8ffadb3e246e5bb40a3c09175b4f443170ec1d41b3622a5dc3b1bc6910920e",
+   "bbox": [
+    43.688752,
+    11.143842,
+    43.850448,
+    11.367758
+   ]
+  },
+  {
+   "name": "Bari",
+   "county": "Puglia",
+   "search": [
+    "bari"
+   ],
+   "file": "bari.bin",
+   "bytes": 1061284,
+   "streets": 16040,
+   "sha256": "7bcb4d1c1ee90f64a1c40e99445308fe4aaff79178b8a93ab3cdba312a229b71",
+   "bbox": [
+    41.045235,
+    16.776508,
+    41.188965,
+    16.967292
+   ]
+  },
+  {
+   "name": "Catania",
+   "county": "Sicilia",
+   "search": [
+    "catania"
+   ],
+   "file": "catania.bin",
+   "bytes": 1467377,
+   "streets": 21897,
+   "sha256": "8051bd85cf3f7fb5c23770a4a77e9e5f4bf317b61f22a1b86bc1d13ff8410303",
+   "bbox": [
+    37.436035,
+    14.992407,
+    37.579765,
+    15.173593
+   ]
   }
  ]
 }
