@@ -4,159 +4,1100 @@
  "source": "OpenStreetMap contributors (ODbL), via Geofabrik",
  "cities": [
   {
-   "name": "Madrid",
-   "county": "Comunidad de Madrid",
+   "name": "București",
+   "county": "București",
    "search": [
-    "madrid"
+    "bucharest",
+    "bucuresti"
    ],
-   "file": "madrid.bin",
-   "bytes": 14030327,
-   "streets": 211655,
-   "sha256": "5f1a0b7503149e232162e66ed5156015e20c21f7a5ea2cecaa84439db2f8f457",
+   "file": "bucuresti.bin",
+   "bytes": 4728897,
+   "streets": 76433,
+   "sha256": "4e1a36aa53a45bd5d06204456f21965339c1254d904fb677698afa3fbe2a207a",
    "bbox": [
-    40.27307,
-    -3.892583,
-    40.56053,
-    -3.515017
+    44.274087,
+    25.88866,
+    44.579513,
+    26.31634
    ]
   },
   {
-   "name": "Barcelona",
-   "county": "Cataluña",
+   "name": "Cluj-Napoca",
+   "county": "Cluj",
    "search": [
-    "barcelona"
+    "cluj",
+    "cluj napoca",
+    "klausenburg"
    ],
-   "file": "barcelona.bin",
-   "bytes": 8254395,
-   "streets": 132179,
-   "sha256": "9ba09f0d1add968a38cdd9f491e55bac3dafda2bbb226c8dc4fb18d3aad6a672",
+   "file": "cluj-napoca.bin",
+   "bytes": 1381396,
+   "streets": 19448,
+   "sha256": "0fbeaae518215039b5214f98ffdc2d17a3e2321b3b9493442f9253c7697e45ad",
    "bbox": [
-    41.279603,
-    2.024919,
-    41.495197,
-    2.312281
+    46.681369,
+    23.492443,
+    46.861031,
+    23.754757
    ]
   },
   {
-   "name": "Valencia",
-   "county": "Comunitat Valenciana",
+   "name": "Timișoara",
+   "county": "Timiș",
    "search": [
-    "valencia"
+    "timisoara"
    ],
-   "file": "valencia.bin",
-   "bytes": 4277709,
-   "streets": 68533,
-   "sha256": "98224ef84f713af03204dea41f3c130e6b16f0db145e8d10307fb0a1a23b3cdc",
+   "file": "timisoara.bin",
+   "bytes": 1282268,
+   "streets": 22984,
+   "sha256": "40df9314584e7a527e8319c9160f9f2f91047d59fb1ee7d65eacb3ca651300b1",
    "bbox": [
-    39.380069,
-    -0.492668,
-    39.559731,
-    -0.259932
+    45.659069,
+    21.079966,
+    45.838731,
+    21.337434
    ]
   },
   {
-   "name": "Sevilla",
-   "county": "Andalucía",
+   "name": "Iași",
+   "county": "Iași",
    "search": [
-    "sevilla",
-    "seville"
+    "iasi",
+    "jassy"
    ],
-   "file": "sevilla.bin",
-   "bytes": 2536539,
-   "streets": 42155,
-   "sha256": "c34f950e6922eeab24ca2c8905051069fdd8a4a4154d9c9317f0ac16e887ce92",
+   "file": "iasi.bin",
+   "bytes": 1045830,
+   "streets": 15474,
+   "sha256": "4e01142bd4db2ff67a4d0c8ded91966de4e9a5a23cdb29da89e43a6311218ebf",
    "bbox": [
-    37.299269,
-    -6.097562,
-    37.478931,
-    -5.871438
+    47.068669,
+    27.46929,
+    47.248331,
+    27.73351
    ]
   },
   {
-   "name": "Zaragoza",
-   "county": "Aragón",
+   "name": "Constanța",
+   "county": "Constanța",
    "search": [
-    "saragossa",
-    "zaragoza"
+    "constanta"
    ],
-   "file": "zaragoza.bin",
-   "bytes": 2802366,
-   "streets": 42042,
-   "sha256": "ed8ff32f2a8fdd8f651a2f51723e18a347e8bba0b749b799a02ee97ebccc594b",
+   "file": "constanta.bin",
+   "bytes": 958084,
+   "streets": 16984,
+   "sha256": "28dd2ee63314e269e5889bb6da6c62fe3795390b17ce3509e673a89222c6301b",
    "bbox": [
-    41.558969,
-    -1.009318,
-    41.738631,
-    -0.768882
+    44.060986,
+    28.497061,
+    44.258614,
+    28.772539
    ]
   },
   {
-   "name": "Málaga",
-   "county": "Andalucía",
+   "name": "Craiova",
+   "county": "Dolj",
    "search": [
-    "malaga"
+    "craiova"
    ],
-   "file": "malaga.bin",
-   "bytes": 2667921,
-   "streets": 40385,
-   "sha256": "5d638eaabb90892156aacfba6b200b37ada17471010de644eb7b89d8529a44de",
+   "file": "craiova.bin",
+   "bytes": 658114,
+   "streets": 9966,
+   "sha256": "69c4559a589a992be61c86bfb6d5532063c686305f723f6bd0e5a7dc31e9d940",
    "bbox": [
-    36.631469,
-    -4.533471,
-    36.811131,
-    -4.309329
+    44.249352,
+    23.681877,
+    44.411048,
+    23.907923
    ]
   },
   {
-   "name": "Murcia",
-   "county": "Región de Murcia",
+   "name": "Brașov",
+   "county": "Brașov",
    "search": [
-    "murcia"
+    "brasov",
+    "kronstadt"
    ],
-   "file": "murcia.bin",
-   "bytes": 1913924,
-   "streets": 24568,
-   "sha256": "6225daa1c1d92a37596806dadbe4090863f475302e8ab64a3d4dfdf3b3ffe7d6",
+   "file": "brasov.bin",
+   "bytes": 1212472,
+   "streets": 17012,
+   "sha256": "6daedb6cbc35745c84068c93ee083bc156dba56861fa6d059a47ccd3d2c5d9fb",
    "bbox": [
-    37.911352,
-    -1.233287,
-    38.073048,
-    -1.028113
+    45.561852,
+    25.473059,
+    45.723548,
+    25.704341
    ]
   },
   {
-   "name": "Palma",
-   "county": "Illes Balears",
+   "name": "Galați",
+   "county": "Galați",
    "search": [
-    "palma",
-    "palma de mallorca"
+    "galati"
    ],
-   "file": "palma.bin",
-   "bytes": 1443385,
-   "streets": 20249,
-   "sha256": "597a820ff1092705ab3bc4b841a339aff893a9cd5f045221b1dd6274d9df1049",
+   "file": "galati.bin",
+   "bytes": 509163,
+   "streets": 7547,
+   "sha256": "d806a3c0f4d5e7612a7db6c2fb466ebc707030caa53293fc65b93f2f24d869fb",
    "bbox": [
-    39.488752,
-    2.545319,
-    39.650448,
-    2.755081
+    45.354452,
+    27.892785,
+    45.516148,
+    28.123215
    ]
   },
   {
-   "name": "Bilbao",
-   "county": "País Vasco",
+   "name": "Ploiești",
+   "county": "Prahova",
    "search": [
-    "bilbao"
+    "ploiesti"
    ],
-   "file": "bilbao.bin",
-   "bytes": 2917403,
-   "streets": 40571,
-   "sha256": "7385dfad52a90f23127e66c9e18ffc97f36576a7408dfcb00ea9a75b861d1aa4",
+   "file": "ploiesti.bin",
+   "bytes": 679714,
+   "streets": 10206,
+   "sha256": "d20a5040b98ff19b9ee76367fbf46efd12fd69f2eb18d09d894968ecf37a7a84",
    "bbox": [
-    43.191135,
-    -3.033686,
-    43.334865,
-    -2.836314
+    44.865352,
+    25.922271,
+    45.027048,
+    26.150729
+   ]
+  },
+  {
+   "name": "Oradea",
+   "county": "Bihor",
+   "search": [
+    "oradea"
+   ],
+   "file": "oradea.bin",
+   "bytes": 783506,
+   "streets": 12006,
+   "sha256": "c80a540fedaed68f0d5af929ae896fc0ba64f70494345dde0001be49617501ac",
+   "bbox": [
+    46.965652,
+    21.800251,
+    47.127348,
+    22.037549
+   ]
+  },
+  {
+   "name": "Brăila",
+   "county": "Brăila",
+   "search": [
+    "braila"
+   ],
+   "file": "braila.bin",
+   "bytes": 245016,
+   "streets": 3628,
+   "sha256": "e7c27808f69244e921ac37791eee661ebbf1a9ee8be2f546837a70ff0c967e7e",
+   "bbox": [
+    45.197335,
+    27.855387,
+    45.341065,
+    28.059613
+   ]
+  },
+  {
+   "name": "Arad",
+   "county": "Arad",
+   "search": [
+    "arad"
+   ],
+   "file": "arad.bin",
+   "bytes": 581757,
+   "streets": 8181,
+   "sha256": "f84f5a2c00af491c2cfb3d0d8ec2b379d05f4d770c8e5520edba7a3256a64018",
+   "bbox": [
+    46.114735,
+    21.208496,
+    46.258465,
+    21.416104
+   ]
+  },
+  {
+   "name": "Pitești",
+   "county": "Argeș",
+   "search": [
+    "pitesti"
+   ],
+   "file": "pitesti.bin",
+   "bytes": 544154,
+   "streets": 6894,
+   "sha256": "8c11db5ab20392fd3b61eac2d02591e0b1465307dfb2c1b80d4fec70c43c04a5",
+   "bbox": [
+    44.784635,
+    24.767821,
+    44.928365,
+    24.970579
+   ]
+  },
+  {
+   "name": "Sibiu",
+   "county": "Sibiu",
+   "search": [
+    "hermannstadt",
+    "sibiu"
+   ],
+   "file": "sibiu.bin",
+   "bytes": 744246,
+   "streets": 10522,
+   "sha256": "ba1bf3ac5201158f70b808a27d00385af7346a81ab103d2589f2632181a1d289",
+   "bbox": [
+    45.726435,
+    24.022522,
+    45.870165,
+    24.228678
+   ]
+  },
+  {
+   "name": "Bacău",
+   "county": "Bacău",
+   "search": [
+    "bacau"
+   ],
+   "file": "bacau.bin",
+   "bytes": 453707,
+   "streets": 5875,
+   "sha256": "914da05bca63dc1f62823832fa2c11997b7a621d806d9267b6d23ebb7936eb12",
+   "bbox": [
+    46.495135,
+    26.81007,
+    46.638865,
+    27.01913
+   ]
+  },
+  {
+   "name": "Târgu Mureș",
+   "county": "Mureș",
+   "search": [
+    "targu mures"
+   ],
+   "file": "targu-mures.bin",
+   "bytes": 891120,
+   "streets": 14596,
+   "sha256": "28711b3aa86b8c7ae4e7955309f2aa94c680cfd2105c846ea27a4cda3ffa8873",
+   "bbox": [
+    46.466735,
+    24.453325,
+    46.610465,
+    24.662275
+   ]
+  },
+  {
+   "name": "Baia Mare",
+   "county": "Maramureș",
+   "search": [
+    "baia mare"
+   ],
+   "file": "baia-mare.bin",
+   "bytes": 462404,
+   "streets": 5264,
+   "sha256": "13920b0c20337d1b6051715d14d828a9dffc018008da556898babb920970eb07",
+   "bbox": [
+    47.593818,
+    23.474744,
+    47.719582,
+    23.661456
+   ]
+  },
+  {
+   "name": "Buzău",
+   "county": "Buzău",
+   "search": [
+    "buzau"
+   ],
+   "file": "buzau.bin",
+   "bytes": 269792,
+   "streets": 3836,
+   "sha256": "d9f0995a6caf05b3b9c83eb73ed3de2e02b74ffa83b6093dba31ac1bb2b2644f",
+   "bbox": [
+    45.087118,
+    26.744138,
+    45.212882,
+    26.922462
+   ]
+  },
+  {
+   "name": "Botoșani",
+   "county": "Botoșani",
+   "search": [
+    "botosani"
+   ],
+   "file": "botosani.bin",
+   "bytes": 235286,
+   "streets": 3274,
+   "sha256": "8866779b2edfbd061c6f8d6bc72e15c6c445d69f4c2f97f5f799a6826100b5c6",
+   "bbox": [
+    47.694801,
+    26.589239,
+    47.802599,
+    26.749561
+   ]
+  },
+  {
+   "name": "Satu Mare",
+   "county": "Satu Mare",
+   "search": [
+    "satu mare"
+   ],
+   "file": "satu-mare.bin",
+   "bytes": 352391,
+   "streets": 5927,
+   "sha256": "2be974960d28e73c52e4187da4d28dcfe87b829f221982acc57b449876dcb8ff",
+   "bbox": [
+    47.729918,
+    22.7917,
+    47.855682,
+    22.9789
+   ]
+  },
+  {
+   "name": "Râmnicu Vâlcea",
+   "county": "Vâlcea",
+   "search": [
+    "ramnicu valcea"
+   ],
+   "file": "ramnicu-valcea.bin",
+   "bytes": 538841,
+   "streets": 5977,
+   "sha256": "c88f83faa291270309969fdc8a20e6582d43b2715f96ddf7c908ab6c81a443eb",
+   "bbox": [
+    45.037118,
+    24.277616,
+    45.162882,
+    24.455784
+   ]
+  },
+  {
+   "name": "Drobeta-Turnu Severin",
+   "county": "Mehedinți",
+   "search": [
+    "drobeta turnu severin",
+    "severin"
+   ],
+   "file": "drobeta-turnu-severin.bin",
+   "bytes": 232492,
+   "streets": 3232,
+   "sha256": "75c0622218f1958ded952f758d57754ba85acb6914f030de1bff1a93ac517f4c",
+   "bbox": [
+    44.578001,
+    22.583961,
+    44.685799,
+    22.735439
+   ]
+  },
+  {
+   "name": "Suceava",
+   "county": "Suceava",
+   "search": [
+    "suceava"
+   ],
+   "file": "suceava.bin",
+   "bytes": 421787,
+   "streets": 4979,
+   "sha256": "265d4717c541d4a2e58d2658df2ae9230db5498b9dee2b455a4e95f75648f749",
+   "bbox": [
+    47.588518,
+    26.162254,
+    47.714282,
+    26.348946
+   ]
+  },
+  {
+   "name": "Piatra Neamț",
+   "county": "Neamț",
+   "search": [
+    "piatra neamt"
+   ],
+   "file": "piatra-neamt.bin",
+   "bytes": 434947,
+   "streets": 5907,
+   "sha256": "f6e8d9ceff2b5b0c4d2ccfc126fb913769ea10530b90b3eee9d188f142af6a1a",
+   "bbox": [
+    46.873601,
+    26.291877,
+    46.981399,
+    26.449723
+   ]
+  },
+  {
+   "name": "Târgu Jiu",
+   "county": "Gorj",
+   "search": [
+    "targu jiu"
+   ],
+   "file": "targu-jiu.bin",
+   "bytes": 184538,
+   "streets": 2374,
+   "sha256": "e01c750d41abb3fa5db0c0a83b965cca6ffea4a2e49f478ca2930de5ab2d130b",
+   "bbox": [
+    44.980301,
+    23.19793,
+    45.088099,
+    23.35047
+   ]
+  },
+  {
+   "name": "Târgoviște",
+   "county": "Dâmbovița",
+   "search": [
+    "targoviste"
+   ],
+   "file": "targoviste.bin",
+   "bytes": 296531,
+   "streets": 4043,
+   "sha256": "c9de197f70343dba4033102711f23bac7a2f9a6a35e29dbad82a9e036497750e",
+   "bbox": [
+    44.871701,
+    25.380575,
+    44.979499,
+    25.532825
+   ]
+  },
+  {
+   "name": "Focșani",
+   "county": "Vrancea",
+   "search": [
+    "focsani"
+   ],
+   "file": "focsani.bin",
+   "bytes": 199608,
+   "streets": 3052,
+   "sha256": "72acf85eecf84a5c7723cbb67c77584bc1dd37068fafeec6f6bb04c281a1f09a",
+   "bbox": [
+    45.642801,
+    27.109532,
+    45.750599,
+    27.263868
+   ]
+  },
+  {
+   "name": "Bistrița",
+   "county": "Bistrița-Năsăud",
+   "search": [
+    "bistrita"
+   ],
+   "file": "bistrita.bin",
+   "bytes": 241168,
+   "streets": 3012,
+   "sha256": "6edcf9f09f2a9f3531e4b1712831ebed43cdbb6b7acc013ac1f909588dee87ef",
+   "bbox": [
+    47.079401,
+    24.420772,
+    47.187199,
+    24.579228
+   ]
+  },
+  {
+   "name": "Tulcea",
+   "county": "Tulcea",
+   "search": [
+    "tulcea"
+   ],
+   "file": "tulcea.bin",
+   "bytes": 160280,
+   "streets": 2228,
+   "sha256": "883d9dd1d2af1335bf1a3247ab7b457dda108a44097fa5a6475bf5964f265961",
+   "bbox": [
+    45.124801,
+    28.728637,
+    45.232599,
+    28.881563
+   ]
+  },
+  {
+   "name": "Reșița",
+   "county": "Caraș-Severin",
+   "search": [
+    "resita"
+   ],
+   "file": "resita.bin",
+   "bytes": 208450,
+   "streets": 2198,
+   "sha256": "00c70a86b294cd41bb2d333b2bd692c74a65dda9378362a0a66c01c90c8f0d43",
+   "bbox": [
+    45.255884,
+    21.825344,
+    45.345716,
+    21.953056
+   ]
+  },
+  {
+   "name": "Alba Iulia",
+   "county": "Alba",
+   "search": [
+    "alba iulia"
+   ],
+   "file": "alba-iulia.bin",
+   "bytes": 258065,
+   "streets": 3545,
+   "sha256": "f46d0851141eeb26c7406778454a0cb30ad4971f72d57f81f0de68575e3dbef6",
+   "bbox": [
+    46.022584,
+    23.505262,
+    46.112416,
+    23.634738
+   ]
+  },
+  {
+   "name": "Slatina",
+   "county": "Olt",
+   "search": [
+    "slatina"
+   ],
+   "file": "slatina.bin",
+   "bytes": 242876,
+   "streets": 2928,
+   "sha256": "343478ee5eace71a9b30e81a072f929ae4bea69b3fcd7e24a11f0b795c66962b",
+   "bbox": [
+    44.375801,
+    24.288723,
+    44.483599,
+    24.439677
+   ]
+  },
+  {
+   "name": "Deva",
+   "county": "Hunedoara",
+   "search": [
+    "deva"
+   ],
+   "file": "deva.bin",
+   "bytes": 254937,
+   "streets": 2865,
+   "sha256": "d470655136fa9be93ee69a7d30406bad624f100792df30a946b21475072d3b8b",
+   "bbox": [
+    45.838384,
+    22.835477,
+    45.928216,
+    22.964523
+   ]
+  },
+  {
+   "name": "Giurgiu",
+   "county": "Giurgiu",
+   "search": [
+    "giurgiu"
+   ],
+   "file": "giurgiu.bin",
+   "bytes": 238635,
+   "streets": 3467,
+   "sha256": "994c05feacc9dd0b694b927034996729207847ea9d71afb08ea5fbbe4a7bbdec",
+   "bbox": [
+    43.858784,
+    25.907561,
+    43.948616,
+    26.032239
+   ]
+  },
+  {
+   "name": "Alexandria",
+   "county": "Teleorman",
+   "search": [
+    "alexandria"
+   ],
+   "file": "alexandria.bin",
+   "bytes": 90473,
+   "streets": 1169,
+   "sha256": "c8dbd62d7e68ceb6faf70937929eb8feee9e5b7588f0e4873c1f7e129fe4dc9f",
+   "bbox": [
+    43.924284,
+    25.270692,
+    44.014116,
+    25.395508
+   ]
+  },
+  {
+   "name": "Slobozia",
+   "county": "Ialomița",
+   "search": [
+    "slobozia"
+   ],
+   "file": "slobozia.bin",
+   "bytes": 89185,
+   "streets": 1337,
+   "sha256": "ab956cf1a1e8e860c25c2f8042349c19153079e048139fe1d89186f5a52a7264",
+   "bbox": [
+    44.521784,
+    27.303655,
+    44.611616,
+    27.429745
+   ]
+  },
+  {
+   "name": "Călărași",
+   "county": "Călărași",
+   "search": [
+    "calarasi"
+   ],
+   "file": "calarasi.bin",
+   "bytes": 95106,
+   "streets": 1342,
+   "sha256": "35121da098b96d53f90cb9aa99d976407f6329177a2c117501e1ec29be609d4c",
+   "bbox": [
+    44.155084,
+    27.270648,
+    44.244916,
+    27.395952
+   ]
+  },
+  {
+   "name": "Vaslui",
+   "county": "Vaslui",
+   "search": [
+    "vaslui"
+   ],
+   "file": "vaslui.bin",
+   "bytes": 97671,
+   "streets": 1167,
+   "sha256": "b3bb152cc3a76eea8d044234721a615e44be2d0a0964d5dbf4289210ec75301d",
+   "bbox": [
+    46.595784,
+    27.66218,
+    46.685616,
+    27.79302
+   ]
+  },
+  {
+   "name": "Zalău",
+   "county": "Sălaj",
+   "search": [
+    "zalau"
+   ],
+   "file": "zalau.bin",
+   "bytes": 168346,
+   "streets": 2174,
+   "sha256": "ba9f955a612406509536d053fead1e10df6a57c73fc375401efbb5d966b34f84",
+   "bbox": [
+    47.146184,
+    22.991104,
+    47.236016,
+    23.123296
+   ]
+  },
+  {
+   "name": "Sfântu Gheorghe",
+   "county": "Covasna",
+   "search": [
+    "sfantu gheorghe"
+   ],
+   "file": "sfantu-gheorghe.bin",
+   "bytes": 204947,
+   "streets": 2291,
+   "sha256": "bb49ec81dd4cf78ff13720ac65234b1b88d49dec7fd86cf68384e11ece9c5818",
+   "bbox": [
+    45.821784,
+    25.718797,
+    45.911616,
+    25.847803
+   ]
+  },
+  {
+   "name": "Miercurea Ciuc",
+   "county": "Harghita",
+   "search": [
+    "miercurea ciuc"
+   ],
+   "file": "miercurea-ciuc.bin",
+   "bytes": 310152,
+   "streets": 4068,
+   "sha256": "f354e83f2f0b2f19f17c46422fe118b117c35f19ebe32cd54dc2b5681e823282",
+   "bbox": [
+    46.315084,
+    25.734917,
+    46.404916,
+    25.865083
+   ]
+  },
+  {
+   "name": "Roman",
+   "county": "Neamț",
+   "search": [
+    "roman"
+   ],
+   "file": "roman.bin",
+   "bytes": 107843,
+   "streets": 1411,
+   "sha256": "4f16b9ebb1188de3ae525e23f46e337cb92de7c6bbb8c3c9615c4e5b5520615b",
+   "bbox": [
+    46.871784,
+    26.859244,
+    46.961616,
+    26.990756
+   ]
+  },
+  {
+   "name": "Turda",
+   "county": "Cluj",
+   "search": [
+    "turda"
+   ],
+   "file": "turda.bin",
+   "bytes": 197096,
+   "streets": 2812,
+   "sha256": "53ea3d49f88fbc2cdfcdf588185f1437b00f6586bfa82082bdefc3bece65dc33",
+   "bbox": [
+    46.521784,
+    23.717969,
+    46.611616,
+    23.848631
+   ]
+  },
+  {
+   "name": "Mediaș",
+   "county": "Sibiu",
+   "search": [
+    "medias"
+   ],
+   "file": "medias.bin",
+   "bytes": 137922,
+   "streets": 1470,
+   "sha256": "a2503836a2e1d03fd9129bdd9802d600aac15eba8fd4f4eceee067223874ca87",
+   "bbox": [
+    46.121784,
+    24.285146,
+    46.211616,
+    24.414854
+   ]
+  },
+  {
+   "name": "Lugoj",
+   "county": "Timiș",
+   "search": [
+    "lugoj"
+   ],
+   "file": "lugoj.bin",
+   "bytes": 159387,
+   "streets": 2011,
+   "sha256": "df0b8736b9ed3e51959ef9be7cb9ce66cec6982ff2720d1be575d057283973d1",
+   "bbox": [
+    45.638384,
+    21.835709,
+    45.728216,
+    21.964291
+   ]
+  },
+  {
+   "name": "Onești",
+   "county": "Bacău",
+   "search": [
+    "onesti"
+   ],
+   "file": "onesti.bin",
+   "bytes": 157764,
+   "streets": 1712,
+   "sha256": "77cfd66e471821e226a1e3a39050b61d10a4b8b6e80db8e6aa30e73a2b83735e",
+   "bbox": [
+    46.205084,
+    26.685047,
+    46.294916,
+    26.814953
+   ]
+  },
+  {
+   "name": "Bârlad",
+   "county": "Vaslui",
+   "search": [
+    "barlad"
+   ],
+   "file": "barlad.bin",
+   "bytes": 137335,
+   "streets": 1807,
+   "sha256": "7406ece1f9d435649828126539d224e3862f8d9522f5c3a5cbc2639d4644cb44",
+   "bbox": [
+    46.188384,
+    27.601767,
+    46.278216,
+    27.731633
+   ]
+  },
+  {
+   "name": "Medgidia",
+   "county": "Constanța",
+   "search": [
+    "medgidia"
+   ],
+   "file": "medgidia.bin",
+   "bytes": 75342,
+   "streets": 938,
+   "sha256": "da159cc6e27dc9c14b0384eddb20c9167b8a1bb984d15abd72f9029eba1140fd",
+   "bbox": [
+    44.214068,
+    28.216536,
+    44.285932,
+    28.316864
+   ]
+  },
+  {
+   "name": "Mangalia",
+   "county": "Constanța",
+   "search": [
+    "mangalia"
+   ],
+   "file": "mangalia.bin",
+   "bytes": 99852,
+   "streets": 1472,
+   "sha256": "641bc40ddf50d2a9fa9e4a6e5849a127bbaddc073e7b8066f49b8720d37dea25",
+   "bbox": [
+    43.780768,
+    28.533502,
+    43.852632,
+    28.633098
+   ]
+  },
+  {
+   "name": "Pașcani",
+   "county": "Iași",
+   "search": [
+    "pascani"
+   ],
+   "file": "pascani.bin",
+   "bytes": 63993,
+   "streets": 673,
+   "sha256": "37164508af718a60bc196b058acbf6fd9500d3e9afe5b91808405ba1df7d0219",
+   "bbox": [
+    47.214068,
+    26.663765,
+    47.285932,
+    26.769635
+   ]
+  },
+  {
+   "name": "Câmpina",
+   "county": "Prahova",
+   "search": [
+    "campina"
+   ],
+   "file": "campina.bin",
+   "bytes": 194113,
+   "streets": 2081,
+   "sha256": "f525ae2caedda77fdba8177763b93cb4e33766d632e842b8220b0e380f239bfc",
+   "bbox": [
+    45.089068,
+    25.682373,
+    45.160932,
+    25.784227
+   ]
+  },
+  {
+   "name": "Câmpulung",
+   "county": "Argeș",
+   "search": [
+    "campulung",
+    "campulung muscel"
+   ],
+   "file": "campulung.bin",
+   "bytes": 139428,
+   "streets": 1208,
+   "sha256": "836d5e308e70d33406b42a52d72caf046e98c52ca96846cf8de0159cca006a82",
+   "bbox": [
+    45.230768,
+    24.998946,
+    45.302632,
+    25.101054
+   ]
+  },
+  {
+   "name": "Curtea de Argeș",
+   "county": "Argeș",
+   "search": [
+    "curtea de arges"
+   ],
+   "file": "curtea-de-arges.bin",
+   "bytes": 94455,
+   "streets": 903,
+   "sha256": "6270624ee9343ce629d813cf4f1734103e29c6a2f16dfa4bbb8ce8ec39b19e50",
+   "bbox": [
+    45.097368,
+    24.632365,
+    45.169232,
+    24.734235
+   ]
+  },
+  {
+   "name": "Caracal",
+   "county": "Olt",
+   "search": [
+    "caracal"
+   ],
+   "file": "caracal.bin",
+   "bytes": 88547,
+   "streets": 1099,
+   "sha256": "268633fd75cff934c7ffaceb9a55465d0554a1aa3c86213a23cb5a7447034625",
+   "bbox": [
+    44.080768,
+    24.299949,
+    44.152632,
+    24.400051
+   ]
+  },
+  {
+   "name": "Petroșani",
+   "county": "Hunedoara",
+   "search": [
+    "petrosani"
+   ],
+   "file": "petrosani.bin",
+   "bytes": 214708,
+   "streets": 2376,
+   "sha256": "289511fc1e5ed8747daec431049317bf6f10c14eddfe1ce0ce208257684e6bcf",
+   "bbox": [
+    45.380768,
+    23.31551,
+    45.452632,
+    23.41789
+   ]
+  },
+  {
+   "name": "Hunedoara",
+   "county": "Hunedoara",
+   "search": [
+    "hunedoara"
+   ],
+   "file": "hunedoara.bin",
+   "bytes": 162932,
+   "streets": 1840,
+   "sha256": "b659c9c0bc6cee025408681fb29d2cf8f2b2160985bd19cf4e3d1a63de65f5b2",
+   "bbox": [
+    45.714068,
+    22.848505,
+    45.785932,
+    22.951495
+   ]
+  },
+  {
+   "name": "Reghin",
+   "county": "Mureș",
+   "search": [
+    "reghin"
+   ],
+   "file": "reghin.bin",
+   "bytes": 132735,
+   "streets": 1879,
+   "sha256": "de4a04a34f7898552ab78964b3a2737db21ea040d90d37cfe1681860d6a0b69a",
+   "bbox": [
+    46.747368,
+    24.647525,
+    46.819232,
+    24.752475
+   ]
+  },
+  {
+   "name": "Fălticeni",
+   "county": "Suceava",
+   "search": [
+    "falticeni"
+   ],
+   "file": "falticeni.bin",
+   "bytes": 63546,
+   "streets": 590,
+   "sha256": "ac33f776f200095a7f8dd7de0b65bc3c0df8afb0b23d6ce831521e85eab7cb01",
+   "bbox": [
+    47.430768,
+    26.246847,
+    47.502632,
+    26.353153
+   ]
+  },
+  {
+   "name": "Rădăuți",
+   "county": "Suceava",
+   "search": [
+    "radauti"
+   ],
+   "file": "radauti.bin",
+   "bytes": 69801,
+   "streets": 929,
+   "sha256": "5d85376c9c61ec02074cb0ea9aff4843575f98ba26d29b879dbc07053cb6af28",
+   "bbox": [
+    47.814068,
+    25.863155,
+    47.885932,
+    25.970245
+   ]
+  },
+  {
+   "name": "Dej",
+   "county": "Cluj",
+   "search": [
+    "dej"
+   ],
+   "file": "dej.bin",
+   "bytes": 102805,
+   "streets": 1285,
+   "sha256": "9c05529eea022f427e7447c4b76562c0e7b66c3aa0416f1523918c729b3a1f8f",
+   "bbox": [
+    47.114068,
+    23.830464,
+    47.185932,
+    23.936136
+   ]
+  },
+  {
+   "name": "Sighetu Marmației",
+   "county": "Maramureș",
+   "search": [
+    "sighet",
+    "sighetu marmatiei"
+   ],
+   "file": "sighetu-marmatiei.bin",
+   "bytes": 119635,
+   "streets": 1299,
+   "sha256": "56c9a2b3f80242b6ea23fb4d7b9ad503f87c87e3e83ef0a69a3b1a9259be88ad",
+   "bbox": [
+    47.897368,
+    23.829669,
+    47.969232,
+    23.936931
+   ]
+  },
+  {
+   "name": "Făgăraș",
+   "county": "Brașov",
+   "search": [
+    "fagaras"
+   ],
+   "file": "fagaras.bin",
+   "bytes": 152769,
+   "streets": 1769,
+   "sha256": "de68f4f29fd283feef3b0e716c2a816d266a0e219b6765fcf0adb4f4f7b9d7fa",
+   "bbox": [
+    45.805768,
+    24.915121,
+    45.877632,
+    25.018279
+   ]
+  },
+  {
+   "name": "Râmnicu Sărat",
+   "county": "Buzău",
+   "search": [
+    "ramnicu sarat"
+   ],
+   "file": "ramnicu-sarat.bin",
+   "bytes": 82178,
+   "streets": 1086,
+   "sha256": "2994d8e651f191e785ff143adb1f77b4be24535f77d058171636c950fbc6c438",
+   "bbox": [
+    45.347368,
+    26.99884,
+    45.419232,
+    27.10116
+   ]
+  },
+  {
+   "name": "Odorheiu Secuiesc",
+   "county": "Harghita",
+   "search": [
+    "odorheiu secuiesc"
+   ],
+   "file": "odorheiu-secuiesc.bin",
+   "bytes": 175314,
+   "streets": 1974,
+   "sha256": "c41e36729c0dc6103d786c8b7f492af5c9c4a1c2960dc6aa94ca8ec334bca050",
+   "bbox": [
+    46.264068,
+    25.247991,
+    46.335932,
+    25.352009
    ]
   },
   {
@@ -333,24 +1274,1039 @@
    ]
   },
   {
-   "name": "New York City",
-   "county": "New York",
+   "name": "Madrid",
+   "county": "Comunidad de Madrid",
    "search": [
-    "brooklyn",
-    "manhattan",
-    "new york",
-    "new york city",
-    "nyc"
+    "madrid"
    ],
-   "file": "new-york-city.bin",
-   "bytes": 15868067,
-   "streets": 285099,
-   "sha256": "516cdace702d40c1f3a2796a45ac5de5db025bf428d0338fec10ab68b819b212",
+   "file": "madrid.bin",
+   "bytes": 14030327,
+   "streets": 211655,
+   "sha256": "5f1a0b7503149e232162e66ed5156015e20c21f7a5ea2cecaa84439db2f8f457",
    "bbox": [
-    40.533138,
-    -74.243025,
-    40.892462,
-    -73.768975
+    40.27307,
+    -3.892583,
+    40.56053,
+    -3.515017
+   ]
+  },
+  {
+   "name": "Barcelona",
+   "county": "Cataluña",
+   "search": [
+    "barcelona"
+   ],
+   "file": "barcelona.bin",
+   "bytes": 8254395,
+   "streets": 132179,
+   "sha256": "9ba09f0d1add968a38cdd9f491e55bac3dafda2bbb226c8dc4fb18d3aad6a672",
+   "bbox": [
+    41.279603,
+    2.024919,
+    41.495197,
+    2.312281
+   ]
+  },
+  {
+   "name": "Valencia",
+   "county": "Comunitat Valenciana",
+   "search": [
+    "valencia"
+   ],
+   "file": "valencia.bin",
+   "bytes": 4277709,
+   "streets": 68533,
+   "sha256": "98224ef84f713af03204dea41f3c130e6b16f0db145e8d10307fb0a1a23b3cdc",
+   "bbox": [
+    39.380069,
+    -0.492668,
+    39.559731,
+    -0.259932
+   ]
+  },
+  {
+   "name": "Sevilla",
+   "county": "Andalucía",
+   "search": [
+    "sevilla",
+    "seville"
+   ],
+   "file": "sevilla.bin",
+   "bytes": 2536539,
+   "streets": 42155,
+   "sha256": "c34f950e6922eeab24ca2c8905051069fdd8a4a4154d9c9317f0ac16e887ce92",
+   "bbox": [
+    37.299269,
+    -6.097562,
+    37.478931,
+    -5.871438
+   ]
+  },
+  {
+   "name": "Zaragoza",
+   "county": "Aragón",
+   "search": [
+    "saragossa",
+    "zaragoza"
+   ],
+   "file": "zaragoza.bin",
+   "bytes": 2802366,
+   "streets": 42042,
+   "sha256": "ed8ff32f2a8fdd8f651a2f51723e18a347e8bba0b749b799a02ee97ebccc594b",
+   "bbox": [
+    41.558969,
+    -1.009318,
+    41.738631,
+    -0.768882
+   ]
+  },
+  {
+   "name": "Málaga",
+   "county": "Andalucía",
+   "search": [
+    "malaga"
+   ],
+   "file": "malaga.bin",
+   "bytes": 2667921,
+   "streets": 40385,
+   "sha256": "5d638eaabb90892156aacfba6b200b37ada17471010de644eb7b89d8529a44de",
+   "bbox": [
+    36.631469,
+    -4.533471,
+    36.811131,
+    -4.309329
+   ]
+  },
+  {
+   "name": "Murcia",
+   "county": "Región de Murcia",
+   "search": [
+    "murcia"
+   ],
+   "file": "murcia.bin",
+   "bytes": 1913924,
+   "streets": 24568,
+   "sha256": "6225daa1c1d92a37596806dadbe4090863f475302e8ab64a3d4dfdf3b3ffe7d6",
+   "bbox": [
+    37.911352,
+    -1.233287,
+    38.073048,
+    -1.028113
+   ]
+  },
+  {
+   "name": "Palma",
+   "county": "Illes Balears",
+   "search": [
+    "palma",
+    "palma de mallorca"
+   ],
+   "file": "palma.bin",
+   "bytes": 1443385,
+   "streets": 20249,
+   "sha256": "597a820ff1092705ab3bc4b841a339aff893a9cd5f045221b1dd6274d9df1049",
+   "bbox": [
+    39.488752,
+    2.545319,
+    39.650448,
+    2.755081
+   ]
+  },
+  {
+   "name": "Bilbao",
+   "county": "País Vasco",
+   "search": [
+    "bilbao"
+   ],
+   "file": "bilbao.bin",
+   "bytes": 2917403,
+   "streets": 40571,
+   "sha256": "7385dfad52a90f23127e66c9e18ffc97f36576a7408dfcb00ea9a75b861d1aa4",
+   "bbox": [
+    43.191135,
+    -3.033686,
+    43.334865,
+    -2.836314
+   ]
+  },
+  {
+   "name": "Paris",
+   "county": "Île-de-France",
+   "search": [
+    "paris"
+   ],
+   "file": "paris.bin",
+   "bytes": 21327828,
+   "streets": 366568,
+   "sha256": "42b6d708d8e2f8a83634fec8183f85574cf815d0423c764b87afc60793a864a8",
+   "bbox": [
+    48.730836,
+    2.161054,
+    48.982364,
+    2.543346
+   ]
+  },
+  {
+   "name": "Marseille",
+   "county": "Provence-Alpes-Côte d'Azur",
+   "search": [
+    "marseille"
+   ],
+   "file": "marseille.bin",
+   "bytes": 4955615,
+   "streets": 65639,
+   "sha256": "2c4702f76078fc0b87bdc360c744bb2a967631ab7f9471ad18a8dfc301c6b481",
+   "bbox": [
+    43.17972,
+    5.209346,
+    43.41328,
+    5.530254
+   ]
+  },
+  {
+   "name": "Lyon",
+   "county": "Auvergne-Rhône-Alpes",
+   "search": [
+    "lyon"
+   ],
+   "file": "lyon.bin",
+   "bytes": 7102723,
+   "streets": 119835,
+   "sha256": "8ecfcd8a24942b9a7f22458ed8c2fdecf1a5160e76ae7bdf5002450cc622f60d",
+   "bbox": [
+    45.665186,
+    4.694054,
+    45.862814,
+    4.977346
+   ]
+  },
+  {
+   "name": "Toulouse",
+   "county": "Occitanie",
+   "search": [
+    "toulouse"
+   ],
+   "file": "toulouse.bin",
+   "bytes": 6707802,
+   "streets": 103766,
+   "sha256": "a1fd15cff573c4e72250874bf3bc478900eecb2f95597b9e92f7dea773f22706",
+   "bbox": [
+    43.505886,
+    1.307738,
+    43.703514,
+    1.580662
+   ]
+  },
+  {
+   "name": "Nice",
+   "county": "Provence-Alpes-Côte d'Azur",
+   "search": [
+    "nice"
+   ],
+   "file": "nice.bin",
+   "bytes": 2458090,
+   "streets": 29294,
+   "sha256": "855f894e7b033af4abf3727d5cc41875d56011932058ee63f68eb65aaa2f87c3",
+   "bbox": [
+    43.629352,
+    7.150153,
+    43.791048,
+    7.373847
+   ]
+  },
+  {
+   "name": "Nantes",
+   "county": "Pays de la Loire",
+   "search": [
+    "nantes"
+   ],
+   "file": "nantes.bin",
+   "bytes": 5374903,
+   "streets": 81191,
+   "sha256": "f0e14f49bd5c97f19db6e353ce00f7473b78fd9a4600c10464f9601e5bb18cdb",
+   "bbox": [
+    47.128569,
+    -1.685859,
+    47.308231,
+    -1.421341
+   ]
+  },
+  {
+   "name": "Montpellier",
+   "county": "Occitanie",
+   "search": [
+    "montpellier"
+   ],
+   "file": "montpellier.bin",
+   "bytes": 3840298,
+   "streets": 53894,
+   "sha256": "205265f3066f28c98fdb55d01feec89afec429ce0969cbf5d33fe109f3a92f74",
+   "bbox": [
+    43.529952,
+    3.765038,
+    43.691648,
+    3.988362
+   ]
+  },
+  {
+   "name": "Strasbourg",
+   "county": "Grand Est",
+   "search": [
+    "strasbourg"
+   ],
+   "file": "strasbourg.bin",
+   "bytes": 2807523,
+   "streets": 43355,
+   "sha256": "f98c85aac19975d2114e4afee4593f18d60a161b19b98d5cda605455fc6548fc",
+   "bbox": [
+    48.492552,
+    7.62991,
+    48.654248,
+    7.87429
+   ]
+  },
+  {
+   "name": "Bordeaux",
+   "county": "Nouvelle-Aquitaine",
+   "search": [
+    "bordeaux"
+   ],
+   "file": "bordeaux.bin",
+   "bytes": 4921042,
+   "streets": 73790,
+   "sha256": "fcba91cbeb45241bd627870f963c61fb66311f9777c26bc96b69d46610aaf456",
+   "bbox": [
+    44.747969,
+    -0.705882,
+    44.927631,
+    -0.452518
+   ]
+  },
+  {
+   "name": "Lille",
+   "county": "Hauts-de-France",
+   "search": [
+    "lille"
+   ],
+   "file": "lille.bin",
+   "bytes": 4533252,
+   "streets": 64008,
+   "sha256": "ad46bfe29cf1bdad4bd7ab7f8328ed5973a0a527498854ac4ab5ce380a8562ba",
+   "bbox": [
+    50.548352,
+    2.929847,
+    50.710048,
+    3.184753
+   ]
+  },
+  {
+   "name": "London",
+   "county": "Greater London",
+   "search": [
+    "london"
+   ],
+   "file": "london.bin",
+   "bytes": 28858611,
+   "streets": 525251,
+   "sha256": "29305e7c85050e4c889cb08d9ea78928b9cb71e76c365939f4691dba54b0f7cb",
+   "bbox": [
+    51.327738,
+    -0.416454,
+    51.687062,
+    0.160854
+   ]
+  },
+  {
+   "name": "Birmingham",
+   "county": "West Midlands",
+   "search": [
+    "birmingham"
+   ],
+   "file": "birmingham.bin",
+   "bytes": 7189578,
+   "streets": 121094,
+   "sha256": "bdd5b528d5b3f5504936466e3a82d5e4944025429e1dc57b57aac2a85d952a85",
+   "bbox": [
+    52.378403,
+    -2.067421,
+    52.593997,
+    -1.713379
+   ]
+  },
+  {
+   "name": "Manchester",
+   "county": "Greater Manchester",
+   "search": [
+    "manchester"
+   ],
+   "file": "manchester.bin",
+   "bytes": 9350447,
+   "streets": 161015,
+   "sha256": "1d0c50a4386c2989a2866aa97eadc62da35e27bb29157ab1a2f5ade363e00ef0",
+   "bbox": [
+    53.381986,
+    -2.408649,
+    53.579614,
+    -2.076551
+   ]
+  },
+  {
+   "name": "Glasgow",
+   "county": "Scotland",
+   "search": [
+    "glasgow"
+   ],
+   "file": "glasgow.bin",
+   "bytes": 6078981,
+   "streets": 95805,
+   "sha256": "1bd0c5940a2a209a42c4c5b7f41dafe72d6f528f9f23ecd7cec067795afb3cc9",
+   "bbox": [
+    55.756403,
+    -4.443899,
+    55.971997,
+    -4.059701
+   ]
+  },
+  {
+   "name": "Leeds",
+   "county": "West Yorkshire",
+   "search": [
+    "leeds"
+   ],
+   "file": "leeds.bin",
+   "bytes": 5110856,
+   "streets": 84388,
+   "sha256": "2be04859d6984e24a17b2080b53df41d72bea2f983ccd45ffb99a5a6a8e03845",
+   "bbox": [
+    53.701986,
+    -1.716413,
+    53.899614,
+    -1.381787
+   ]
+  },
+  {
+   "name": "Liverpool",
+   "county": "Merseyside",
+   "search": [
+    "liverpool"
+   ],
+   "file": "liverpool.bin",
+   "bytes": 3839562,
+   "streets": 64054,
+   "sha256": "017c71b93b863be71e80d36e6c16e448669de96ef6749ad32e1e558d4dd10edf",
+   "bbox": [
+    53.318569,
+    -3.142296,
+    53.498231,
+    -2.840904
+   ]
+  },
+  {
+   "name": "Sheffield",
+   "county": "South Yorkshire",
+   "search": [
+    "sheffield"
+   ],
+   "file": "sheffield.bin",
+   "bytes": 4521845,
+   "streets": 67125,
+   "sha256": "9e6ef1cac080deac8d2f4088cbee700ae212e81cd0b9a413b1f9353a81413734",
+   "bbox": [
+    53.291269,
+    -1.6207,
+    53.470931,
+    -1.3195
+   ]
+  },
+  {
+   "name": "Edinburgh",
+   "county": "Scotland",
+   "search": [
+    "edinburgh"
+   ],
+   "file": "edinburgh.bin",
+   "bytes": 3562541,
+   "streets": 56405,
+   "sha256": "e4224e7fab54943bb7ec03663bbd6cbc2216a90e5e7c6ecb63224c53ce183c78",
+   "bbox": [
+    55.863469,
+    -3.34875,
+    56.043131,
+    -3.02785
+   ]
+  },
+  {
+   "name": "Bristol",
+   "county": "England",
+   "search": [
+    "bristol"
+   ],
+   "file": "bristol.bin",
+   "bytes": 4299286,
+   "streets": 70074,
+   "sha256": "f2e3735e56ce2bcc85b46523681032ec8d44625a0e70ddaba828a64f24a6ad4e",
+   "bbox": [
+    51.364669,
+    -2.73206,
+    51.544331,
+    -2.44374
+   ]
+  },
+  {
+   "name": "Cardiff",
+   "county": "Wales",
+   "search": [
+    "caerdydd",
+    "cardiff"
+   ],
+   "file": "cardiff.bin",
+   "bytes": 3442558,
+   "streets": 48874,
+   "sha256": "94e577ddc700eb9ed7c6d1338d7fb1bca65496ea76abf1ee8cd4ff6a2fa0c007",
+   "bbox": [
+    51.400752,
+    -3.308921,
+    51.562448,
+    -3.049279
+   ]
+  },
+  {
+   "name": "Roma",
+   "county": "Lazio",
+   "search": [
+    "roma",
+    "rome"
+   ],
+   "file": "roma.bin",
+   "bytes": 10816239,
+   "streets": 149519,
+   "sha256": "67c23770d2c87afbff17b843c191536a377a8f661f5aa26a64dfd9d4b736178f",
+   "bbox": [
+    41.750087,
+    12.291218,
+    42.055513,
+    12.701582
+   ]
+  },
+  {
+   "name": "Milano",
+   "county": "Lombardia",
+   "search": [
+    "milan",
+    "milano"
+   ],
+   "file": "milano.bin",
+   "bytes": 10069040,
+   "streets": 164740,
+   "sha256": "0c7cc633003e55ed5e68517c50e56f2059324a0a3268aa066bf58a60bc188991",
+   "bbox": [
+    45.34742,
+    9.023493,
+    45.58098,
+    9.356507
+   ]
+  },
+  {
+   "name": "Napoli",
+   "county": "Campania",
+   "search": [
+    "naples",
+    "napoli"
+   ],
+   "file": "napoli.bin",
+   "bytes": 2909434,
+   "streets": 45334,
+   "sha256": "8c68cc25dbd34e62d06c947aa5716ee28020b7db6171ad8b18fba34b9931a1bf",
+   "bbox": [
+    40.761969,
+    14.149339,
+    40.941631,
+    14.386861
+   ]
+  },
+  {
+   "name": "Torino",
+   "county": "Piemonte",
+   "search": [
+    "torino",
+    "turin"
+   ],
+   "file": "torino.bin",
+   "bytes": 3960519,
+   "streets": 61839,
+   "sha256": "36895d060c21026095327f8e70217173d04d217fbd053fb2f2a958b1b01a332c",
+   "bbox": [
+    44.971486,
+    7.546984,
+    45.169114,
+    7.826816
+   ]
+  },
+  {
+   "name": "Palermo",
+   "county": "Sicilia",
+   "search": [
+    "palermo"
+   ],
+   "file": "palermo.bin",
+   "bytes": 1276502,
+   "streets": 16898,
+   "sha256": "7e870d7f570f9fc1addc8802aa501b215da171dfa576aa4c397971f292145b1a",
+   "bbox": [
+    38.034852,
+    13.25874,
+    38.196548,
+    13.46426
+   ]
+  },
+  {
+   "name": "Genova",
+   "county": "Liguria",
+   "search": [
+    "genoa",
+    "genova"
+   ],
+   "file": "genova.bin",
+   "bytes": 2875522,
+   "streets": 35014,
+   "sha256": "82c8bfb1d2474acbe795ea3be53119208bd5ffc320bfa74f9863c0e4c7d6144e",
+   "bbox": [
+    44.315769,
+    8.820557,
+    44.495431,
+    9.072043
+   ]
+  },
+  {
+   "name": "Bologna",
+   "county": "Emilia-Romagna",
+   "search": [
+    "bologna"
+   ],
+   "file": "bologna.bin",
+   "bytes": 2810302,
+   "streets": 38818,
+   "sha256": "7ade04c9ce14c767bce32a0608b3423829aa5b67d4ad19699f2306949a390b93",
+   "bbox": [
+    44.414052,
+    11.229258,
+    44.575748,
+    11.455942
+   ]
+  },
+  {
+   "name": "Firenze",
+   "county": "Toscana",
+   "search": [
+    "firenze",
+    "florence"
+   ],
+   "file": "firenze.bin",
+   "bytes": 3346022,
+   "streets": 43970,
+   "sha256": "af8ffadb3e246e5bb40a3c09175b4f443170ec1d41b3622a5dc3b1bc6910920e",
+   "bbox": [
+    43.688752,
+    11.143842,
+    43.850448,
+    11.367758
+   ]
+  },
+  {
+   "name": "Bari",
+   "county": "Puglia",
+   "search": [
+    "bari"
+   ],
+   "file": "bari.bin",
+   "bytes": 1061284,
+   "streets": 16040,
+   "sha256": "7bcb4d1c1ee90f64a1c40e99445308fe4aaff79178b8a93ab3cdba312a229b71",
+   "bbox": [
+    41.045235,
+    16.776508,
+    41.188965,
+    16.967292
+   ]
+  },
+  {
+   "name": "Catania",
+   "county": "Sicilia",
+   "search": [
+    "catania"
+   ],
+   "file": "catania.bin",
+   "bytes": 1467377,
+   "streets": 21897,
+   "sha256": "8051bd85cf3f7fb5c23770a4a77e9e5f4bf317b61f22a1b86bc1d13ff8410303",
+   "bbox": [
+    37.436035,
+    14.992407,
+    37.579765,
+    15.173593
+   ]
+  },
+  {
+   "name": "Amsterdam",
+   "county": "Noord-Holland",
+   "search": [
+    "amsterdam"
+   ],
+   "file": "amsterdam.bin",
+   "bytes": 7615088,
+   "streets": 135836,
+   "sha256": "6e1bd25779f33dfe3fca9565a0ea3cb91bd842551a3084a3a8b277bf418c7e88",
+   "bbox": [
+    52.268786,
+    4.742267,
+    52.466414,
+    5.065933
+   ]
+  },
+  {
+   "name": "Rotterdam",
+   "county": "Zuid-Holland",
+   "search": [
+    "rotterdam"
+   ],
+   "file": "rotterdam.bin",
+   "bytes": 7517907,
+   "streets": 132995,
+   "sha256": "ec6713346e00079cb8a240e42e8deecd37a9a63060fe238d1537cfe2ed4c21cd",
+   "bbox": [
+    51.825586,
+    4.31747,
+    52.023214,
+    4.63793
+   ]
+  },
+  {
+   "name": "Den Haag",
+   "county": "Zuid-Holland",
+   "search": [
+    "den haag",
+    "s gravenhage",
+    "the hague"
+   ],
+   "file": "den-haag.bin",
+   "bytes": 5281016,
+   "streets": 93980,
+   "sha256": "1a2ff367306ffc184b32c4b27174874f4d942b77bb1bad995ead13970a32890d",
+   "bbox": [
+    51.980669,
+    4.15456,
+    52.160331,
+    4.44684
+   ]
+  },
+  {
+   "name": "Utrecht",
+   "county": "Utrecht",
+   "search": [
+    "utrecht"
+   ],
+   "file": "utrecht.bin",
+   "bytes": 4432451,
+   "streets": 80131,
+   "sha256": "7812f4ebd70f4dc7c16a086b310656e7fefff8ac29b6036dc4cbc79c831bc2cd",
+   "bbox": [
+    52.009852,
+    4.989814,
+    52.171548,
+    5.252986
+   ]
+  },
+  {
+   "name": "Eindhoven",
+   "county": "Noord-Brabant",
+   "search": [
+    "eindhoven"
+   ],
+   "file": "eindhoven.bin",
+   "bytes": 3157335,
+   "streets": 56095,
+   "sha256": "934c9dd7ea0621eeee8cc9fe13e668ffbac03b802c9ad60669d5547fc5c1a805",
+   "bbox": [
+    51.369735,
+    5.354405,
+    51.513465,
+    5.584995
+   ]
+  },
+  {
+   "name": "Groningen",
+   "county": "Groningen",
+   "search": [
+    "groningen"
+   ],
+   "file": "groningen.bin",
+   "bytes": 1668286,
+   "streets": 27298,
+   "sha256": "55f0f1c1d1f8d0861efde498bd44fa935f681efd5f102c6da9df2bbe0b0ec048",
+   "bbox": [
+    53.147535,
+    6.446476,
+    53.291265,
+    6.686524
+   ]
+  },
+  {
+   "name": "Tilburg",
+   "county": "Noord-Brabant",
+   "search": [
+    "tilburg"
+   ],
+   "file": "tilburg.bin",
+   "bytes": 2048633,
+   "streets": 32001,
+   "sha256": "ee3679b7e7baa79fe9e2b16e2086e36651283dc0dfe7155f47c30cdcdf6e8477",
+   "bbox": [
+    51.483635,
+    4.975716,
+    51.627365,
+    5.206884
+   ]
+  },
+  {
+   "name": "Almere",
+   "county": "Flevoland",
+   "search": [
+    "almere"
+   ],
+   "file": "almere.bin",
+   "bytes": 2759294,
+   "streets": 43746,
+   "sha256": "b1630cc187ff7349df6c6a06886cfa7750acacf922579ef64ccba35c5109ab95",
+   "bbox": [
+    52.269952,
+    5.132341,
+    52.431648,
+    5.397059
+   ]
+  },
+  {
+   "name": "Breda",
+   "county": "Noord-Brabant",
+   "search": [
+    "breda"
+   ],
+   "file": "breda.bin",
+   "bytes": 1748654,
+   "streets": 27786,
+   "sha256": "654b4980dc8ff1c8736c0c778ddfef511b1bc4dbedcb48d65d511df6004f2783",
+   "bbox": [
+    51.500035,
+    4.652675,
+    51.643765,
+    4.883925
+   ]
+  },
+  {
+   "name": "Nijmegen",
+   "county": "Gelderland",
+   "search": [
+    "nijmegen"
+   ],
+   "file": "nijmegen.bin",
+   "bytes": 2404462,
+   "streets": 40130,
+   "sha256": "b77807cfc9403929e2e35425dde76bc009ed276f04765194a30fbdddc5a39381",
+   "bbox": [
+    51.740735,
+    5.720958,
+    51.884465,
+    5.953442
+   ]
+  },
+  {
+   "name": "Warszawa",
+   "county": "Mazowieckie",
+   "search": [
+    "warsaw",
+    "warszawa"
+   ],
+   "file": "warszawa.bin",
+   "bytes": 19606830,
+   "streets": 351714,
+   "sha256": "c32a3cecb57fb56a80ddc9c447995f4d7d7bacc537979b55fe593a991abfaa98",
+   "bbox": [
+    52.094953,
+    20.792204,
+    52.364447,
+    21.232196
+   ]
+  },
+  {
+   "name": "Kraków",
+   "county": "Małopolskie",
+   "search": [
+    "cracow",
+    "krakow"
+   ],
+   "file": "krakow.bin",
+   "bytes": 9912807,
+   "streets": 182455,
+   "sha256": "4950867cf8e29978263296fc9fc7df6b7bd3b33cab73eb485491f2016345f08e",
+   "bbox": [
+    49.965886,
+    19.791065,
+    50.163514,
+    20.098935
+   ]
+  },
+  {
+   "name": "Łódź",
+   "county": "Łódzkie",
+   "search": [
+    "lodz",
+    "łodz"
+   ],
+   "file": "łodz.bin",
+   "bytes": 7116628,
+   "streets": 115608,
+   "sha256": "f6a9e3efdef07854f1aaf57eea3afceeb795ee8156ecb85dcdb9aef3111b2e57",
+   "bbox": [
+    51.660386,
+    19.296356,
+    51.858014,
+    19.615644
+   ]
+  },
+  {
+   "name": "Wrocław",
+   "county": "Dolnośląskie",
+   "search": [
+    "wroclaw",
+    "wrocław"
+   ],
+   "file": "wrocław.bin",
+   "bytes": 8065309,
+   "streets": 140813,
+   "sha256": "caa48ad121d917594f96c7a1603e33fe5850be86fc85f3fb629497cc0cf37e49",
+   "bbox": [
+    51.009086,
+    16.881116,
+    51.206714,
+    17.195884
+   ]
+  },
+  {
+   "name": "Poznań",
+   "county": "Wielkopolskie",
+   "search": [
+    "poznan"
+   ],
+   "file": "poznan.bin",
+   "bytes": 6248671,
+   "streets": 94655,
+   "sha256": "e48f00b3a1345699a4b8bc38769c9e59d7b953b820cdf235961b53ccbca7cb71",
+   "bbox": [
+    52.316569,
+    16.77795,
+    52.496231,
+    17.07245
+   ]
+  },
+  {
+   "name": "Gdańsk",
+   "county": "Pomorskie",
+   "search": [
+    "gdansk"
+   ],
+   "file": "gdansk.bin",
+   "bytes": 5640501,
+   "streets": 100429,
+   "sha256": "8b2fd11d1ddc1cc07ce3091a7ae7af458cf418f0942eb8b92c96fea81a10b1e5",
+   "bbox": [
+    54.262169,
+    18.492464,
+    54.441831,
+    18.800736
+   ]
+  },
+  {
+   "name": "Szczecin",
+   "county": "Zachodniopomorskie",
+   "search": [
+    "szczecin"
+   ],
+   "file": "szczecin.bin",
+   "bytes": 4146232,
+   "streets": 63188,
+   "sha256": "13d5d6366547412820ead5cc20ea8fb115c32eea35ea47f70b18f1b04b9fa002",
+   "bbox": [
+    53.338669,
+    14.402032,
+    53.518331,
+    14.703568
+   ]
+  },
+  {
+   "name": "Bydgoszcz",
+   "county": "Kujawsko-Pomorskie",
+   "search": [
+    "bydgoszcz"
+   ],
+   "file": "bydgoszcz.bin",
+   "bytes": 2873265,
+   "streets": 45017,
+   "sha256": "2060de932759a091b2ca49091e8b316073b90286336a0999d52faa1db79e47ef",
+   "bbox": [
+    53.042652,
+    17.873674,
+    53.204348,
+    18.143126
+   ]
+  },
+  {
+   "name": "Lublin",
+   "county": "Lubelskie",
+   "search": [
+    "lublin"
+   ],
+   "file": "lublin.bin",
+   "bytes": 4042146,
+   "streets": 68878,
+   "sha256": "90032366fabd0831dcd0017c2638c9a8379bb0a63c649a1dc7feef7e04755635",
+   "bbox": [
+    51.165652,
+    22.439244,
+    51.327348,
+    22.697556
+   ]
+  },
+  {
+   "name": "Katowice",
+   "county": "Śląskie",
+   "search": [
+    "katowice"
+   ],
+   "file": "katowice.bin",
+   "bytes": 6023361,
+   "streets": 99001,
+   "sha256": "21644ebc91d3028076f5b47d0796450b431fc1d6982cf3947fea6024c8f16c8e",
+   "bbox": [
+    50.184052,
+    18.897325,
+    50.345748,
+    19.150275
+   ]
+  },
+  {
+   "name": "Phoenix",
+   "county": "Arizona",
+   "search": [
+    "phoenix"
+   ],
+   "file": "phoenix.bin",
+   "bytes": 17150117,
+   "streets": 248565,
+   "sha256": "0d135a7ebb535782ad3cd39a1872174ee221e6aa0bc4d4180a8e294770ecff75",
+   "bbox": [
+    33.286704,
+    -112.267791,
+    33.610096,
+    -111.880209
    ]
   },
   {
@@ -423,6 +2379,45 @@
    ]
   },
   {
+   "name": "New York City",
+   "county": "New York",
+   "search": [
+    "brooklyn",
+    "manhattan",
+    "new york",
+    "new york city",
+    "nyc"
+   ],
+   "file": "new-york-city.bin",
+   "bytes": 15868067,
+   "streets": 285099,
+   "sha256": "516cdace702d40c1f3a2796a45ac5de5db025bf428d0338fec10ab68b819b212",
+   "bbox": [
+    40.533138,
+    -74.243025,
+    40.892462,
+    -73.768975
+   ]
+  },
+  {
+   "name": "Philadelphia",
+   "county": "Pennsylvania",
+   "search": [
+    "philadelphia",
+    "philly"
+   ],
+   "file": "philadelphia.bin",
+   "bytes": 7613094,
+   "streets": 128610,
+   "sha256": "02277daa5ec00dd4b204b6fffd3904aa3f701a2759486faf50e7b6ab56b75e95",
+   "bbox": [
+    39.826836,
+    -75.329259,
+    40.078364,
+    -75.001141
+   ]
+  },
+  {
    "name": "Houston",
    "county": "Texas",
    "search": [
@@ -471,41 +2466,6 @@
     -96.957263,
     32.911447,
     -96.636737
-   ]
-  },
-  {
-   "name": "Phoenix",
-   "county": "Arizona",
-   "search": [
-    "phoenix"
-   ],
-   "file": "phoenix.bin",
-   "bytes": 17150117,
-   "streets": 248565,
-   "sha256": "0d135a7ebb535782ad3cd39a1872174ee221e6aa0bc4d4180a8e294770ecff75",
-   "bbox": [
-    33.286704,
-    -112.267791,
-    33.610096,
-    -111.880209
-   ]
-  },
-  {
-   "name": "Philadelphia",
-   "county": "Pennsylvania",
-   "search": [
-    "philadelphia",
-    "philly"
-   ],
-   "file": "philadelphia.bin",
-   "bytes": 7613094,
-   "streets": 128610,
-   "sha256": "02277daa5ec00dd4b204b6fffd3904aa3f701a2759486faf50e7b6ab56b75e95",
-   "bbox": [
-    39.826836,
-    -75.329259,
-    40.078364,
-    -75.001141
    ]
   }
  ]
