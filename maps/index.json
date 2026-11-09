@@ -1,6 +1,6 @@
 {
  "version": 1,
- "built": "2026-11-03",
+ "built": "2026-11-09",
  "source": "OpenStreetMap contributors (ODbL), via Geofabrik",
  "cities": [
   {
@@ -1453,9 +1453,9 @@
     "paris"
    ],
    "file": "paris.bin",
-   "bytes": 21304229,
-   "streets": 366069,
-   "sha256": "6189738641df0c6752c8936aff2ccbe7bc72a9ce661ca90c259d34f95338edb9",
+   "bytes": 21327828,
+   "streets": 366568,
+   "sha256": "42b6d708d8e2f8a83634fec8183f85574cf815d0423c764b87afc60793a864a8",
    "bbox": [
     48.730836,
     2.161054,
@@ -1470,9 +1470,9 @@
     "marseille"
    ],
    "file": "marseille.bin",
-   "bytes": 4950256,
-   "streets": 65572,
-   "sha256": "687a7bed322fddd488d466cb4db79df74d03f1cd184fb7d2d619e965d525a448",
+   "bytes": 4955615,
+   "streets": 65639,
+   "sha256": "2c4702f76078fc0b87bdc360c744bb2a967631ab7f9471ad18a8dfc301c6b481",
    "bbox": [
     43.17972,
     5.209346,
@@ -1487,9 +1487,9 @@
     "lyon"
    ],
    "file": "lyon.bin",
-   "bytes": 7097998,
-   "streets": 119762,
-   "sha256": "23c27841d0d8b6e37c09d111caa35f0bf26ad7968af717777769034b1ae7eaaf",
+   "bytes": 7102723,
+   "streets": 119835,
+   "sha256": "8ecfcd8a24942b9a7f22458ed8c2fdecf1a5160e76ae7bdf5002450cc622f60d",
    "bbox": [
     45.665186,
     4.694054,
@@ -1504,9 +1504,9 @@
     "toulouse"
    ],
    "file": "toulouse.bin",
-   "bytes": 6706235,
-   "streets": 103731,
-   "sha256": "33e7903b749440adb70489d03380aa360645e628e22dfa0aa6dcba8239f8897f",
+   "bytes": 6707802,
+   "streets": 103766,
+   "sha256": "a1fd15cff573c4e72250874bf3bc478900eecb2f95597b9e92f7dea773f22706",
    "bbox": [
     43.505886,
     1.307738,
@@ -1521,9 +1521,9 @@
     "nice"
    ],
    "file": "nice.bin",
-   "bytes": 2458193,
-   "streets": 29289,
-   "sha256": "cb018d3dad114d90d32c7f0c7ebb09c8aa05e04c4a74a8d8d1f552ba9dadbd1c",
+   "bytes": 2458090,
+   "streets": 29294,
+   "sha256": "855f894e7b033af4abf3727d5cc41875d56011932058ee63f68eb65aaa2f87c3",
    "bbox": [
     43.629352,
     7.150153,
@@ -1538,9 +1538,9 @@
     "nantes"
    ],
    "file": "nantes.bin",
-   "bytes": 5363636,
-   "streets": 80984,
-   "sha256": "6896760e8d3eccfcd386d580903a6e164855d3c69a2beb639188c50075cbc9c1",
+   "bytes": 5374903,
+   "streets": 81191,
+   "sha256": "f0e14f49bd5c97f19db6e353ce00f7473b78fd9a4600c10464f9601e5bb18cdb",
    "bbox": [
     47.128569,
     -1.685859,
@@ -1555,9 +1555,9 @@
     "montpellier"
    ],
    "file": "montpellier.bin",
-   "bytes": 3832466,
-   "streets": 53750,
-   "sha256": "7c06bfadbf2272adf4b7480d67716c1c66b3a9224b576865ae225cad8dcd2b25",
+   "bytes": 3840298,
+   "streets": 53894,
+   "sha256": "205265f3066f28c98fdb55d01feec89afec429ce0969cbf5d33fe109f3a92f74",
    "bbox": [
     43.529952,
     3.765038,
@@ -1572,9 +1572,9 @@
     "strasbourg"
    ],
    "file": "strasbourg.bin",
-   "bytes": 2799496,
-   "streets": 43260,
-   "sha256": "3849720f6d4f48f9444d64b8caaa433f30ff22eef06c2d8049682544c0147d5e",
+   "bytes": 2807523,
+   "streets": 43355,
+   "sha256": "f98c85aac19975d2114e4afee4593f18d60a161b19b98d5cda605455fc6548fc",
    "bbox": [
     48.492552,
     7.62991,
@@ -1589,9 +1589,9 @@
     "bordeaux"
    ],
    "file": "bordeaux.bin",
-   "bytes": 4916227,
-   "streets": 73667,
-   "sha256": "4e2970114e28d91e7b0f167dbf4f565d264dd7a63ac1d390183a23fdaf521fb2",
+   "bytes": 4921042,
+   "streets": 73790,
+   "sha256": "fcba91cbeb45241bd627870f963c61fb66311f9777c26bc96b69d46610aaf456",
    "bbox": [
     44.747969,
     -0.705882,
@@ -1606,14 +1606,361 @@
     "lille"
    ],
    "file": "lille.bin",
-   "bytes": 4527825,
-   "streets": 63913,
-   "sha256": "1229424c618e786d7b6f0dd5a5841b14b20d2535cb9893db55690562e03aa8cd",
+   "bytes": 4533252,
+   "streets": 64008,
+   "sha256": "ad46bfe29cf1bdad4bd7ab7f8328ed5973a0a527498854ac4ab5ce380a8562ba",
    "bbox": [
     50.548352,
     2.929847,
     50.710048,
     3.184753
+   ]
+  },
+  {
+   "name": "London",
+   "county": "Greater London",
+   "search": [
+    "london"
+   ],
+   "file": "london.bin",
+   "bytes": 28858611,
+   "streets": 525251,
+   "sha256": "29305e7c85050e4c889cb08d9ea78928b9cb71e76c365939f4691dba54b0f7cb",
+   "bbox": [
+    51.327738,
+    -0.416454,
+    51.687062,
+    0.160854
+   ]
+  },
+  {
+   "name": "Birmingham",
+   "county": "West Midlands",
+   "search": [
+    "birmingham"
+   ],
+   "file": "birmingham.bin",
+   "bytes": 7189578,
+   "streets": 121094,
+   "sha256": "bdd5b528d5b3f5504936466e3a82d5e4944025429e1dc57b57aac2a85d952a85",
+   "bbox": [
+    52.378403,
+    -2.067421,
+    52.593997,
+    -1.713379
+   ]
+  },
+  {
+   "name": "Manchester",
+   "county": "Greater Manchester",
+   "search": [
+    "manchester"
+   ],
+   "file": "manchester.bin",
+   "bytes": 9350447,
+   "streets": 161015,
+   "sha256": "1d0c50a4386c2989a2866aa97eadc62da35e27bb29157ab1a2f5ade363e00ef0",
+   "bbox": [
+    53.381986,
+    -2.408649,
+    53.579614,
+    -2.076551
+   ]
+  },
+  {
+   "name": "Glasgow",
+   "county": "Scotland",
+   "search": [
+    "glasgow"
+   ],
+   "file": "glasgow.bin",
+   "bytes": 6078981,
+   "streets": 95805,
+   "sha256": "1bd0c5940a2a209a42c4c5b7f41dafe72d6f528f9f23ecd7cec067795afb3cc9",
+   "bbox": [
+    55.756403,
+    -4.443899,
+    55.971997,
+    -4.059701
+   ]
+  },
+  {
+   "name": "Leeds",
+   "county": "West Yorkshire",
+   "search": [
+    "leeds"
+   ],
+   "file": "leeds.bin",
+   "bytes": 5110856,
+   "streets": 84388,
+   "sha256": "2be04859d6984e24a17b2080b53df41d72bea2f983ccd45ffb99a5a6a8e03845",
+   "bbox": [
+    53.701986,
+    -1.716413,
+    53.899614,
+    -1.381787
+   ]
+  },
+  {
+   "name": "Liverpool",
+   "county": "Merseyside",
+   "search": [
+    "liverpool"
+   ],
+   "file": "liverpool.bin",
+   "bytes": 3839562,
+   "streets": 64054,
+   "sha256": "017c71b93b863be71e80d36e6c16e448669de96ef6749ad32e1e558d4dd10edf",
+   "bbox": [
+    53.318569,
+    -3.142296,
+    53.498231,
+    -2.840904
+   ]
+  },
+  {
+   "name": "Sheffield",
+   "county": "South Yorkshire",
+   "search": [
+    "sheffield"
+   ],
+   "file": "sheffield.bin",
+   "bytes": 4521845,
+   "streets": 67125,
+   "sha256": "9e6ef1cac080deac8d2f4088cbee700ae212e81cd0b9a413b1f9353a81413734",
+   "bbox": [
+    53.291269,
+    -1.6207,
+    53.470931,
+    -1.3195
+   ]
+  },
+  {
+   "name": "Edinburgh",
+   "county": "Scotland",
+   "search": [
+    "edinburgh"
+   ],
+   "file": "edinburgh.bin",
+   "bytes": 3562541,
+   "streets": 56405,
+   "sha256": "e4224e7fab54943bb7ec03663bbd6cbc2216a90e5e7c6ecb63224c53ce183c78",
+   "bbox": [
+    55.863469,
+    -3.34875,
+    56.043131,
+    -3.02785
+   ]
+  },
+  {
+   "name": "Bristol",
+   "county": "England",
+   "search": [
+    "bristol"
+   ],
+   "file": "bristol.bin",
+   "bytes": 4299286,
+   "streets": 70074,
+   "sha256": "f2e3735e56ce2bcc85b46523681032ec8d44625a0e70ddaba828a64f24a6ad4e",
+   "bbox": [
+    51.364669,
+    -2.73206,
+    51.544331,
+    -2.44374
+   ]
+  },
+  {
+   "name": "Cardiff",
+   "county": "Wales",
+   "search": [
+    "caerdydd",
+    "cardiff"
+   ],
+   "file": "cardiff.bin",
+   "bytes": 3442558,
+   "streets": 48874,
+   "sha256": "94e577ddc700eb9ed7c6d1338d7fb1bca65496ea76abf1ee8cd4ff6a2fa0c007",
+   "bbox": [
+    51.400752,
+    -3.308921,
+    51.562448,
+    -3.049279
+   ]
+  },
+  {
+   "name": "Roma",
+   "county": "Lazio",
+   "search": [
+    "roma",
+    "rome"
+   ],
+   "file": "roma.bin",
+   "bytes": 10816239,
+   "streets": 149519,
+   "sha256": "67c23770d2c87afbff17b843c191536a377a8f661f5aa26a64dfd9d4b736178f",
+   "bbox": [
+    41.750087,
+    12.291218,
+    42.055513,
+    12.701582
+   ]
+  },
+  {
+   "name": "Milano",
+   "county": "Lombardia",
+   "search": [
+    "milan",
+    "milano"
+   ],
+   "file": "milano.bin",
+   "bytes": 10069040,
+   "streets": 164740,
+   "sha256": "0c7cc633003e55ed5e68517c50e56f2059324a0a3268aa066bf58a60bc188991",
+   "bbox": [
+    45.34742,
+    9.023493,
+    45.58098,
+    9.356507
+   ]
+  },
+  {
+   "name": "Napoli",
+   "county": "Campania",
+   "search": [
+    "naples",
+    "napoli"
+   ],
+   "file": "napoli.bin",
+   "bytes": 2909434,
+   "streets": 45334,
+   "sha256": "8c68cc25dbd34e62d06c947aa5716ee28020b7db6171ad8b18fba34b9931a1bf",
+   "bbox": [
+    40.761969,
+    14.149339,
+    40.941631,
+    14.386861
+   ]
+  },
+  {
+   "name": "Torino",
+   "county": "Piemonte",
+   "search": [
+    "torino",
+    "turin"
+   ],
+   "file": "torino.bin",
+   "bytes": 3960519,
+   "streets": 61839,
+   "sha256": "36895d060c21026095327f8e70217173d04d217fbd053fb2f2a958b1b01a332c",
+   "bbox": [
+    44.971486,
+    7.546984,
+    45.169114,
+    7.826816
+   ]
+  },
+  {
+   "name": "Palermo",
+   "county": "Sicilia",
+   "search": [
+    "palermo"
+   ],
+   "file": "palermo.bin",
+   "bytes": 1276502,
+   "streets": 16898,
+   "sha256": "7e870d7f570f9fc1addc8802aa501b215da171dfa576aa4c397971f292145b1a",
+   "bbox": [
+    38.034852,
+    13.25874,
+    38.196548,
+    13.46426
+   ]
+  },
+  {
+   "name": "Genova",
+   "county": "Liguria",
+   "search": [
+    "genoa",
+    "genova"
+   ],
+   "file": "genova.bin",
+   "bytes": 2875522,
+   "streets": 35014,
+   "sha256": "82c8bfb1d2474acbe795ea3be53119208bd5ffc320bfa74f9863c0e4c7d6144e",
+   "bbox": [
+    44.315769,
+    8.820557,
+    44.495431,
+    9.072043
+   ]
+  },
+  {
+   "name": "Bologna",
+   "county": "Emilia-Romagna",
+   "search": [
+    "bologna"
+   ],
+   "file": "bologna.bin",
+   "bytes": 2810302,
+   "streets": 38818,
+   "sha256": "7ade04c9ce14c767bce32a0608b3423829aa5b67d4ad19699f2306949a390b93",
+   "bbox": [
+    44.414052,
+    11.229258,
+    44.575748,
+    11.455942
+   ]
+  },
+  {
+   "name": "Firenze",
+   "county": "Toscana",
+   "search": [
+    "firenze",
+    "florence"
+   ],
+   "file": "firenze.bin",
+   "bytes": 3346022,
+   "streets": 43970,
+   "sha256": "af8ffadb3e246e5bb40a3c09175b4f443170ec1d41b3622a5dc3b1bc6910920e",
+   "bbox": [
+    43.688752,
+    11.143842,
+    43.850448,
+    11.367758
+   ]
+  },
+  {
+   "name": "Bari",
+   "county": "Puglia",
+   "search": [
+    "bari"
+   ],
+   "file": "bari.bin",
+   "bytes": 1061284,
+   "streets": 16040,
+   "sha256": "7bcb4d1c1ee90f64a1c40e99445308fe4aaff79178b8a93ab3cdba312a229b71",
+   "bbox": [
+    41.045235,
+    16.776508,
+    41.188965,
+    16.967292
+   ]
+  },
+  {
+   "name": "Catania",
+   "county": "Sicilia",
+   "search": [
+    "catania"
+   ],
+   "file": "catania.bin",
+   "bytes": 1467377,
+   "streets": 21897,
+   "sha256": "8051bd85cf3f7fb5c23770a4a77e9e5f4bf317b61f22a1b86bc1d13ff8410303",
+   "bbox": [
+    37.436035,
+    14.992407,
+    37.579765,
+    15.173593
    ]
   }
  ]
