@@ -331,6 +331,182 @@
     51.545431,
     7.155763
    ]
+  },
+  {
+   "name": "New York City",
+   "county": "New York",
+   "search": [
+    "brooklyn",
+    "manhattan",
+    "new york",
+    "new york city",
+    "nyc"
+   ],
+   "file": "new-york-city.bin",
+   "bytes": 15868067,
+   "streets": 285099,
+   "sha256": "516cdace702d40c1f3a2796a45ac5de5db025bf428d0338fec10ab68b819b212",
+   "bbox": [
+    40.533138,
+    -74.243025,
+    40.892462,
+    -73.768975
+   ]
+  },
+  {
+   "name": "Los Angeles",
+   "county": "California",
+   "search": [
+    "la",
+    "los angeles"
+   ],
+   "file": "los-angeles.bin",
+   "bytes": 22971807,
+   "streets": 390423,
+   "sha256": "09df0ad1c8e6fe7a40f2b87913ebb578e3a480d491d3e5b0920cfe638acc61f9",
+   "bbox": [
+    33.854572,
+    -118.48223,
+    34.249828,
+    -118.00517
+   ]
+  },
+  {
+   "name": "San Diego",
+   "county": "California",
+   "search": [
+    "san diego"
+   ],
+   "file": "san-diego.bin",
+   "bytes": 8234263,
+   "streets": 151255,
+   "sha256": "339ab84919e312c16e4babb46761431958700fb7a79c56994a3157814b2b20c4",
+   "bbox": [
+    32.580953,
+    -117.321253,
+    32.850447,
+    -117.000947
+   ]
+  },
+  {
+   "name": "San Jose",
+   "county": "California",
+   "search": [
+    "san jose"
+   ],
+   "file": "san-jose.bin",
+   "bytes": 9840535,
+   "streets": 142983,
+   "sha256": "a686a884c2488cdd7921e6fc46111c02a6c143893cd252c320ff6133e94db8ff",
+   "bbox": [
+    37.22142,
+    -122.033181,
+    37.45498,
+    -121.739419
+   ]
+  },
+  {
+   "name": "Chicago",
+   "county": "Illinois",
+   "search": [
+    "chicago"
+   ],
+   "file": "chicago.bin",
+   "bytes": 13168360,
+   "streets": 243988,
+   "sha256": "3b7a70ef4c99460c806c730edb50ad880afc43ef8a6c8a9d225e6fae2a06901d",
+   "bbox": [
+    41.725387,
+    -87.834903,
+    42.030813,
+    -87.424697
+   ]
+  },
+  {
+   "name": "Houston",
+   "county": "Texas",
+   "search": [
+    "houston"
+   ],
+   "file": "houston.bin",
+   "bytes": 13255675,
+   "streets": 232163,
+   "sha256": "40837bedf76cf2546236a90aba568e119efe4ca7a0d6d999f91f9aed6a17f747",
+   "bbox": [
+    29.580738,
+    -95.576758,
+    29.940062,
+    -95.162842
+   ]
+  },
+  {
+   "name": "San Antonio",
+   "county": "Texas",
+   "search": [
+    "san antonio"
+   ],
+   "file": "san-antonio.bin",
+   "bytes": 7049396,
+   "streets": 104360,
+   "sha256": "86084c7445262bf187df569c4289d3a9efb4b445a0aa80f3fa3ed62f804cd751",
+   "bbox": [
+    29.289353,
+    -98.648302,
+    29.558847,
+    -98.338898
+   ]
+  },
+  {
+   "name": "Dallas",
+   "county": "Texas",
+   "search": [
+    "dallas"
+   ],
+   "file": "dallas.bin",
+   "bytes": 9009773,
+   "streets": 150637,
+   "sha256": "3ba0e72b7a23d723a6e3675153c3e89e28bba622cddb7a2d5552281d62d2e2e7",
+   "bbox": [
+    32.641953,
+    -96.957263,
+    32.911447,
+    -96.636737
+   ]
+  },
+  {
+   "name": "Phoenix",
+   "county": "Arizona",
+   "search": [
+    "phoenix"
+   ],
+   "file": "phoenix.bin",
+   "bytes": 17150117,
+   "streets": 248565,
+   "sha256": "0d135a7ebb535782ad3cd39a1872174ee221e6aa0bc4d4180a8e294770ecff75",
+   "bbox": [
+    33.286704,
+    -112.267791,
+    33.610096,
+    -111.880209
+   ]
+  },
+  {
+   "name": "Philadelphia",
+   "county": "Pennsylvania",
+   "search": [
+    "philadelphia",
+    "philly"
+   ],
+   "file": "philadelphia.bin",
+   "bytes": 7613094,
+   "streets": 128610,
+   "sha256": "02277daa5ec00dd4b204b6fffd3904aa3f701a2759486faf50e7b6ab56b75e95",
+   "bbox": [
+    39.826836,
+    -75.329259,
+    40.078364,
+    -75.001141
+   ]
   }
  ]
 }
