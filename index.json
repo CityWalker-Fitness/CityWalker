@@ -1615,6 +1615,177 @@
     50.710048,
     3.184753
    ]
+  },
+  {
+   "name": "London",
+   "county": "Greater London",
+   "search": [
+    "london"
+   ],
+   "file": "london.bin",
+   "bytes": 28858611,
+   "streets": 525251,
+   "sha256": "29305e7c85050e4c889cb08d9ea78928b9cb71e76c365939f4691dba54b0f7cb",
+   "bbox": [
+    51.327738,
+    -0.416454,
+    51.687062,
+    0.160854
+   ]
+  },
+  {
+   "name": "Birmingham",
+   "county": "West Midlands",
+   "search": [
+    "birmingham"
+   ],
+   "file": "birmingham.bin",
+   "bytes": 7189578,
+   "streets": 121094,
+   "sha256": "bdd5b528d5b3f5504936466e3a82d5e4944025429e1dc57b57aac2a85d952a85",
+   "bbox": [
+    52.378403,
+    -2.067421,
+    52.593997,
+    -1.713379
+   ]
+  },
+  {
+   "name": "Manchester",
+   "county": "Greater Manchester",
+   "search": [
+    "manchester"
+   ],
+   "file": "manchester.bin",
+   "bytes": 9350447,
+   "streets": 161015,
+   "sha256": "1d0c50a4386c2989a2866aa97eadc62da35e27bb29157ab1a2f5ade363e00ef0",
+   "bbox": [
+    53.381986,
+    -2.408649,
+    53.579614,
+    -2.076551
+   ]
+  },
+  {
+   "name": "Glasgow",
+   "county": "Scotland",
+   "search": [
+    "glasgow"
+   ],
+   "file": "glasgow.bin",
+   "bytes": 6078981,
+   "streets": 95805,
+   "sha256": "1bd0c5940a2a209a42c4c5b7f41dafe72d6f528f9f23ecd7cec067795afb3cc9",
+   "bbox": [
+    55.756403,
+    -4.443899,
+    55.971997,
+    -4.059701
+   ]
+  },
+  {
+   "name": "Leeds",
+   "county": "West Yorkshire",
+   "search": [
+    "leeds"
+   ],
+   "file": "leeds.bin",
+   "bytes": 5110856,
+   "streets": 84388,
+   "sha256": "2be04859d6984e24a17b2080b53df41d72bea2f983ccd45ffb99a5a6a8e03845",
+   "bbox": [
+    53.701986,
+    -1.716413,
+    53.899614,
+    -1.381787
+   ]
+  },
+  {
+   "name": "Liverpool",
+   "county": "Merseyside",
+   "search": [
+    "liverpool"
+   ],
+   "file": "liverpool.bin",
+   "bytes": 3839562,
+   "streets": 64054,
+   "sha256": "017c71b93b863be71e80d36e6c16e448669de96ef6749ad32e1e558d4dd10edf",
+   "bbox": [
+    53.318569,
+    -3.142296,
+    53.498231,
+    -2.840904
+   ]
+  },
+  {
+   "name": "Sheffield",
+   "county": "South Yorkshire",
+   "search": [
+    "sheffield"
+   ],
+   "file": "sheffield.bin",
+   "bytes": 4521845,
+   "streets": 67125,
+   "sha256": "9e6ef1cac080deac8d2f4088cbee700ae212e81cd0b9a413b1f9353a81413734",
+   "bbox": [
+    53.291269,
+    -1.6207,
+    53.470931,
+    -1.3195
+   ]
+  },
+  {
+   "name": "Edinburgh",
+   "county": "Scotland",
+   "search": [
+    "edinburgh"
+   ],
+   "file": "edinburgh.bin",
+   "bytes": 3562541,
+   "streets": 56405,
+   "sha256": "e4224e7fab54943bb7ec03663bbd6cbc2216a90e5e7c6ecb63224c53ce183c78",
+   "bbox": [
+    55.863469,
+    -3.34875,
+    56.043131,
+    -3.02785
+   ]
+  },
+  {
+   "name": "Bristol",
+   "county": "England",
+   "search": [
+    "bristol"
+   ],
+   "file": "bristol.bin",
+   "bytes": 4299286,
+   "streets": 70074,
+   "sha256": "f2e3735e56ce2bcc85b46523681032ec8d44625a0e70ddaba828a64f24a6ad4e",
+   "bbox": [
+    51.364669,
+    -2.73206,
+    51.544331,
+    -2.44374
+   ]
+  },
+  {
+   "name": "Cardiff",
+   "county": "Wales",
+   "search": [
+    "caerdydd",
+    "cardiff"
+   ],
+   "file": "cardiff.bin",
+   "bytes": 3442558,
+   "streets": 48874,
+   "sha256": "94e577ddc700eb9ed7c6d1338d7fb1bca65496ea76abf1ee8cd4ff6a2fa0c007",
+   "bbox": [
+    51.400752,
+    -3.308921,
+    51.562448,
+    -3.049279
+   ]
   }
  ]
 }
