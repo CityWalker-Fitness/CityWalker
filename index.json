@@ -1,6 +1,6 @@
 {
  "version": 1,
- "built": "2026-11-02",
+ "built": "2026-11-09",
  "source": "OpenStreetMap contributors (ODbL), via Geofabrik",
  "cities": [
   {
@@ -1444,6 +1444,176 @@
     18.897325,
     50.345748,
     19.150275
+   ]
+  },
+  {
+   "name": "Paris",
+   "county": "Île-de-France",
+   "search": [
+    "paris"
+   ],
+   "file": "paris.bin",
+   "bytes": 21327828,
+   "streets": 366568,
+   "sha256": "42b6d708d8e2f8a83634fec8183f85574cf815d0423c764b87afc60793a864a8",
+   "bbox": [
+    48.730836,
+    2.161054,
+    48.982364,
+    2.543346
+   ]
+  },
+  {
+   "name": "Marseille",
+   "county": "Provence-Alpes-Côte d'Azur",
+   "search": [
+    "marseille"
+   ],
+   "file": "marseille.bin",
+   "bytes": 4955615,
+   "streets": 65639,
+   "sha256": "2c4702f76078fc0b87bdc360c744bb2a967631ab7f9471ad18a8dfc301c6b481",
+   "bbox": [
+    43.17972,
+    5.209346,
+    43.41328,
+    5.530254
+   ]
+  },
+  {
+   "name": "Lyon",
+   "county": "Auvergne-Rhône-Alpes",
+   "search": [
+    "lyon"
+   ],
+   "file": "lyon.bin",
+   "bytes": 7102723,
+   "streets": 119835,
+   "sha256": "8ecfcd8a24942b9a7f22458ed8c2fdecf1a5160e76ae7bdf5002450cc622f60d",
+   "bbox": [
+    45.665186,
+    4.694054,
+    45.862814,
+    4.977346
+   ]
+  },
+  {
+   "name": "Toulouse",
+   "county": "Occitanie",
+   "search": [
+    "toulouse"
+   ],
+   "file": "toulouse.bin",
+   "bytes": 6707802,
+   "streets": 103766,
+   "sha256": "a1fd15cff573c4e72250874bf3bc478900eecb2f95597b9e92f7dea773f22706",
+   "bbox": [
+    43.505886,
+    1.307738,
+    43.703514,
+    1.580662
+   ]
+  },
+  {
+   "name": "Nice",
+   "county": "Provence-Alpes-Côte d'Azur",
+   "search": [
+    "nice"
+   ],
+   "file": "nice.bin",
+   "bytes": 2458090,
+   "streets": 29294,
+   "sha256": "855f894e7b033af4abf3727d5cc41875d56011932058ee63f68eb65aaa2f87c3",
+   "bbox": [
+    43.629352,
+    7.150153,
+    43.791048,
+    7.373847
+   ]
+  },
+  {
+   "name": "Nantes",
+   "county": "Pays de la Loire",
+   "search": [
+    "nantes"
+   ],
+   "file": "nantes.bin",
+   "bytes": 5374903,
+   "streets": 81191,
+   "sha256": "f0e14f49bd5c97f19db6e353ce00f7473b78fd9a4600c10464f9601e5bb18cdb",
+   "bbox": [
+    47.128569,
+    -1.685859,
+    47.308231,
+    -1.421341
+   ]
+  },
+  {
+   "name": "Montpellier",
+   "county": "Occitanie",
+   "search": [
+    "montpellier"
+   ],
+   "file": "montpellier.bin",
+   "bytes": 3840298,
+   "streets": 53894,
+   "sha256": "205265f3066f28c98fdb55d01feec89afec429ce0969cbf5d33fe109f3a92f74",
+   "bbox": [
+    43.529952,
+    3.765038,
+    43.691648,
+    3.988362
+   ]
+  },
+  {
+   "name": "Strasbourg",
+   "county": "Grand Est",
+   "search": [
+    "strasbourg"
+   ],
+   "file": "strasbourg.bin",
+   "bytes": 2807523,
+   "streets": 43355,
+   "sha256": "f98c85aac19975d2114e4afee4593f18d60a161b19b98d5cda605455fc6548fc",
+   "bbox": [
+    48.492552,
+    7.62991,
+    48.654248,
+    7.87429
+   ]
+  },
+  {
+   "name": "Bordeaux",
+   "county": "Nouvelle-Aquitaine",
+   "search": [
+    "bordeaux"
+   ],
+   "file": "bordeaux.bin",
+   "bytes": 4921042,
+   "streets": 73790,
+   "sha256": "fcba91cbeb45241bd627870f963c61fb66311f9777c26bc96b69d46610aaf456",
+   "bbox": [
+    44.747969,
+    -0.705882,
+    44.927631,
+    -0.452518
+   ]
+  },
+  {
+   "name": "Lille",
+   "county": "Hauts-de-France",
+   "search": [
+    "lille"
+   ],
+   "file": "lille.bin",
+   "bytes": 4533252,
+   "streets": 64008,
+   "sha256": "ad46bfe29cf1bdad4bd7ab7f8328ed5973a0a527498854ac4ab5ce380a8562ba",
+   "bbox": [
+    50.548352,
+    2.929847,
+    50.710048,
+    3.184753
    ]
   }
  ]
