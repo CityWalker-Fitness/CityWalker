@@ -2467,6 +2467,24 @@
     32.911447,
     -96.636737
    ]
+  },
+  {
+   "name": "Las Palmas de Gran Canaria",
+   "county": "Canarias",
+   "search": [
+    "las palmas",
+    "las palmas de gran canaria"
+   ],
+   "file": "las-palmas-de-gran-canaria.bin",
+   "bytes": 1016819,
+   "streets": 13915,
+   "sha256": "20019eea7daa7de8b2ddf9be4f6cc42e281781aaa2de1006c5760198b33695d8",
+   "bbox": [
+    28.051635,
+    -15.517786,
+    28.195365,
+    -15.354814
+   ]
   }
  ]
 }
